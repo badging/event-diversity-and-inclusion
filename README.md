@@ -6,6 +6,7 @@ Date        | Event                                            | Badge
 ------------|--------------------------------------------------|--------------------
 Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]
 Feb-16-2020 | Mock Event #2 (nowhere)
+March-12-2020| Mock Event #3 (nowhere)
 <!-- ADD EVENT
 
 THINGS TO KEEP IN MIND:
