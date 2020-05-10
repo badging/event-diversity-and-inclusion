@@ -32,9 +32,7 @@ Metric Question: _How diverse and inclusive are the attendees?_
 
 ### Section 2
 
-`Q` Please provide a statement on the event's commitment to Attendee Diversity & Inclusion.
-
-`A` <!-- Essay (Required) -->
+- [ ] This event commits to Attendee Diversity & Inclusion.
 
 ## Code of Conduct at Event
 
@@ -64,9 +62,7 @@ Metric Question: _How does the Code of Conduct for the event support diversity a
 
 ### Section 3:
 
-`Q` Please provide a statement on the event's commitment to its Event Code of Conduct
-
-`A` <!-- Essay (Required) -->
+- [ ] This event commits to Event Code of Conduct.
 
 ## Diversity Access Tickets
 
@@ -100,9 +96,7 @@ Metric Question: _How are Diversity Access Tickets used to support diversity and
 
 ### Section 2
 
-`Q` Please provide a statement on the event's commitment to Diversity Access Tickets.
-
-`A` <!-- Essay (Required) -->
+- [ ] This event commits to Diversity Access Tickets.
 
 ## Family Friendliness
 
@@ -130,9 +124,7 @@ Metric Question: _How does enabling families to attend together support diversit
 
 ### Section 2
 
-`Q` Please provide a statement on the event's commitment to Family Friendliness.
-
-`A` <!-- Essay (Required) -->
+- [ ] This event commits to Family Friendliness.
 
 ## Speaker Demographics
 
@@ -150,6 +142,4 @@ Metric Question: _How well does the speaker lineup for the event represent a div
 
 ### Section 2
 
-`Q` Please provide a statement on your event's commitment to Speaker Diversity & Inclusion.
-
-`A` <!-- Essay (Required) -->
+- [ ] This event commits to Speaker Diversity & Inclusion.
