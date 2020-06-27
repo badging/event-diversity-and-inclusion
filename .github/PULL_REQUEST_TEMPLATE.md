@@ -15,42 +15,42 @@ assignees: ''
 
 - [ ] This event commits to Speaker Diversity & Inclusion.
   - `Q` Detail the process for measuring Speaker Demographics.
-    `A` <!--Descriptive answer-->
+  - `A` <!--Descriptive answer-->
   - `Q` Give the link for the page related to Speaker Demographics if available.
-    `A`
+  - `A`
  
 ## Attendee Demographics
 
 - [ ] This event commits to Attendee Diversity & Inclusion.
   - `Q` Detail the process for measuring Attendee Demographics.
-    `A` <!--Descriptive answer-->
+  - `A` <!--Descriptive answer-->
   - `Q` Give the link for the page related to Attendee Demographics if available.
-    `A`
+  - `A`
 
 ## Code of Conduct at Event
 
 - [ ] This event commits to the Code of Conduct at Event.
     - `Q` Provide link for Event Code of Conduct.
-      `A`
+    - `A`
     - `Q` Is the code of conduct posted at Event venue?
-      `A` <!--Yes/no answer-->
+    - `A` <!--Yes/no answer-->
 
 
 ## Diversity Access Tickets
 
 - [ ] This event commits to the Diversity Access Tickets.
     - `Q` Link to the page containing information about Diversity Access Tickets.
-      `A`
+    - `A`
     - `Q` How many different types of diversity access tickets are available for the event?
-      `A` <!--Descriptive answer-->
+    - `A` <!--Descriptive answer-->
     - `Q` What are the criteria for qualifying for a diversity access ticket?
-      `A` <!--Descriptive answer-->
+    - `A` <!--Descriptive answer-->
 
 ## Family Friendliness
 - [ ] This event commits to Family Friendliness.
   - `Q` Does the Event provide childcare facilities for its attendees and speakers?
-    `A`
+  - `A`
   - `Q` What are the other ways that a family-friendly environment is being created in the Event?
-    `A`
+  - `A`
   - `Q` Provide relevant links related to family friendliness at the Event.
-    `A`
+  - `A`
