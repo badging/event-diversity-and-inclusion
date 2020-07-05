@@ -19,11 +19,11 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
 
 - Metric criteria
   - Select the one that applies:
-      - [ ] C1
-      - [ ] C2
-      - [ ] C3
-      - [ ] C4
-<!--Pick names-->
+      - [ ] First metric set
+      - [ ] Second metric set
+      - [ ] Third metric set
+      - [ ] Fourth metric set
+
 
 ## Metric based checks
 <!--Metric based checks-->
