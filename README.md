@@ -1,10 +1,10 @@
 # Diversity and Inclusion Badging for Events
 
-Please see the Diversity and Inclusion [README] to apply for an event badge.
+Please see the Diversity and Inclusion [Event Submission Guidelines] to apply for an Event badge.
 
-Date        | Event                                            | Badge 
-------------|--------------------------------------------------|--------------------
-Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]
+Date        | Event name                                       | Badge              |Application PR link     |
+------------|--------------------------------------------------|--------------------|------------------------|
+Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]         |<!--To be added later-->|
 Feb-16-2020 | Mock Event #2 (nowhere)
 <!-- ADD EVENT
 
@@ -33,3 +33,5 @@ Click here to [Apply for an Event Badge][APPLY].
 [README]: https://github.com/badging/diversity-and-inclusion/blob/master/README.md#applying-for-badges
 
 [APPLY]: https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md
+
+[Event Submission Guidelines]: ./submission/guidelines.md
