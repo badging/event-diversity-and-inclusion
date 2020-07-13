@@ -17,7 +17,7 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
 - Qualitative
   - If any of the checks above are not met, or if the matter provided is insufficient, describe how.
 
-- Metric criteria
+- Metric criteria ([reference](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md))
   - Select the one that applies:
       - [ ] First metric set
       - [ ] Second metric set
@@ -59,9 +59,7 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
     - If the above check is not met, explain how.
 
 ### Family Friendliness
-- Commitment
-    - [ ] The Event provides services for families.
-- If met:
-    - Provide a link if necessary.
-- If not met:
-    - Explain why the above check is not met.
+- Quantitative
+    - [ ] The Event provides services/facilities for families and the information about that is public.
+- Qualitative
+    - Provide feedback in case any of these checks are not met.
