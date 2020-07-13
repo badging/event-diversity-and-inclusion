@@ -6,22 +6,35 @@ Date        | Event name                                       | Badge          
 ------------|--------------------------------------------------|--------------------|------------------------|
 Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]         |<!--To be added later-->|
 Feb-16-2020 | Mock Event #2 (nowhere)
-<!-- ADD EVENT
+<!-- SAMPLE ROW
+
+Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
 
 THINGS TO KEEP IN MIND:
 
 - Your event needs to be a valid Markdown table row
-  - It must be on the line indicated by `<!-- ADD EVENT`
+  - It must be on the line indicated by 
   - It must all be on a single line
   - It must use ` | ` to separate the columns
   - It must be terminated with a single line break
 - Your event needs to use the following format
   1. Date: `Mmm-dd-yyyy`
   2. Event: `‹distinct name› (‹city or venue›)`
-  3. Badge: must be left blank
-- You may revise this line during the span of the pull request
+  3. Badge: must be left blank initially. During the application PR, a badge will be suggested according to the review information.
+     That suggestion must be applied in order to get a valid badge in the Markdown table
+  4. Application PR link: must be added during the final commit when the final badge suggestion is applied
 
 -->
+
+## Badge levels
+
+Two statuses exist for the Diversity and Inclusion Event Badging:
+
+| Level        | Badge        |  Requirements Met
+|--------------|--------------|-------------------------------------
+| Pending      | ![Pending]   |  Review ongoing/required deliverables not met
+| Passing      | ![Passing]   |  Required deliverables met
+
 
 Click here to [Apply for an Event Badge][APPLY].
 
