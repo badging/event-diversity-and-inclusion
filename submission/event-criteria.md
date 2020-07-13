@@ -2,7 +2,7 @@
 
 Event based applications for CHAOSS Badging would be evaluated differently than Projects. Likely, not all metrics defined as Event related metrics will be valid for all applying events.
 
-Applicants choose the set of metrics which best apply.
+Applicants choose the set of metrics which best apply, and this is double-checked by a reviewer.
 
 -----
 
