@@ -8,7 +8,7 @@ Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]     
 Feb-16-2020 | Mock Event #2 (nowhere)
 <!-- SAMPLE ROW
 
-Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
+02-19-2020 | Open Source Festival (Lagos, Nigeria)             |                    |                        |
 
 THINGS TO KEEP IN MIND:
 
