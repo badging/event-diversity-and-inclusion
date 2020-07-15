@@ -8,7 +8,7 @@ Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]     
 Feb-16-2020 | Mock Event #2 (nowhere)
 <!-- SAMPLE ROW
 
-Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
+Oct-25-2020 | LizFest (Cincinnati, Ohio)                              |                    |                        |
 
 THINGS TO KEEP IN MIND:
 
