@@ -2,13 +2,13 @@
 
 <!--
 
-This is the review checklist reviewers will use to analyse a CHAOSS Badging submission.
+This is the review checklist reviewers will use to analyze a CHAOSS Badging submission.
 
 -->
 ## Initial checks
 
 - Quantitative
-    - [ ] Event is about Open Source technolgies and systems.
+    - [ ] Event is about Open Source technologies and systems.
     - [ ] Event information is publicly available on a website.
     - [ ] The Event Code of Conduct is publicly available.
     - [ ] The applicant is the organizer of the event.
@@ -30,7 +30,7 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
 ### Code of Conduct at Event
 - Quantitative
     - [ ] Event Code of Conduct has a clear definition of expected behaviour.
-    - [ ] There is a clear venue for reporting violations of the CoC at the event website / event venue.
+    - [ ] There is a clear venue for reporting violations of the CoC at the event website/event venue.
     - [ ] The Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior.
     <!--For example: Emails or Phone numbers.-->
 - Qualitative
