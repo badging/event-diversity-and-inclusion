@@ -1,10 +1,3 @@
----
-name: Event Submission
-about: Submit an event to be badged
-title: 'Event Submission: {event name}'
-labels: event
-assignees: ''
----
 # Event Submission
 
 > ❗Note: Go through the [Event Criteria](../submission/event-criteria.md) to know acceptable Event metric format for CHAOSS Badging.
