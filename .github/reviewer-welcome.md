@@ -5,3 +5,9 @@ Make sure you have looked into the following documents:
   - [Reviewer role](https://github.com/badging/diversity-and-inclusion/blob/master/roles/reviewer.md)
   - [Submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md)(In order to get familiar with applicant actions)
   - [Additional Event Criteria](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md)
+ 
+In order to suggest the appropriate badge, fill out the field below with one of the [Badge level](https://github.com/badging/event-diversity-and-inclusion#badge-levels) names.
+
+**Suggested badge:**
+
+---
