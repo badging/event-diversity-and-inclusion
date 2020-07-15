@@ -6,6 +6,7 @@ Date        | Event name                                       | Badge          
 ------------|--------------------------------------------------|--------------------|------------------------|
 Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]         |<!--To be added later-->|
 Feb-16-2020 | Mock Event #2 (nowhere)
+Jul-15-2020 | Borealis                                         |                    |<!--To be added later-->|
 <!-- SAMPLE ROW
 
 Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
