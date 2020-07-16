@@ -15,3 +15,6 @@
    When either of these conditions are met, the moderator suggests the approprite badge for the Event through a PR suggestion.
    This suggestion can be applied directly in the form of a commit. Make sure to add the PR link as well.
 8. The whole process ends when the PR with the Badge is added to the master branch.
+
+## Edit the document
+Once you feel comfortable with the process, Feel free to [Edit the Document](https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md)!
