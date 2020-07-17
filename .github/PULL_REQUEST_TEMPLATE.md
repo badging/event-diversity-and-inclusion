@@ -1,6 +1,6 @@
 # Event Submission
 
-> ❗Note: Go through the [Event Criteria](../submission/event-criteria.md) to know acceptable Event metric format for CHAOSS Badging.
+> ❗Note: Go through the [Event Criteria](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md) to know acceptable Event metric format for CHAOSS Badging.
 
 ## Requirements
 
