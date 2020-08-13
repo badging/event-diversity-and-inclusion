@@ -1,6 +1,6 @@
 # Diversity and Inclusion Badging for Events
 
-Please review the Diversity and Inclusion [Event Submission Guidelines] before applying for an Event badge.
+Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
 Date        | Event name                                       | Badge              |Application PR link     |
 ------------|--------------------------------------------------|--------------------|------------------------|
