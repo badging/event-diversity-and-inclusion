@@ -30,7 +30,7 @@ THINGS TO KEEP IN MIND:
 
 ## Badge levels
 
-Two statuses exist for the Diversity and Inclusion Event Badging:
+Four statuses exist for the Diversity and Inclusion Event Badging:
 | Level        | Badge        |  Requirements Met
 |--------------|--------------|-------------------------------------
 | Pending      | ![Pending]   |  Review ongoing/required deliverables not met
