@@ -5,13 +5,11 @@
 - Timely integrate reviewers' feedback while the CHAOSS Badging application is being evaluated.
 
 ## Application guide
-1. Create a fork of [event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion) repository
-2. Append an entry to the table in the README in a separate branch
-3. Create a PR to project-diversity-and-inclusion `master` branch to add your proposed changes.
-4. Fill out the PR template with required details.
-5. The application process starts when PR is opened.
-6. Communicate with the reviewers during the process and provide Event information according to the metrics you committed to
-7. The review ends when all required metric checks are satisfied.
-   When either of these conditions are met, the moderator suggests the approprite badge for the Event through a PR suggestion.
-   This suggestion can be applied directly in the form of a commit. Make sure to add the PR link as well.
-8. The whole process ends when the PR with the Badge is added to the master branch.
+1. Navigate to [the CHAOSS Event Badging submission form](https://chaoss.community/diversity-and-inclusion-badging/)
+2. Fill out the web form to your best ability.
+3. After finishing, click "Submit" on the web form.
+4. An issue template will be created for you with the information you provided. Click "Create New Issue" to begin the application.
+5. Communicate with the reviewers during the process and provide Event information according to the metrics your event committed to.
+6. Your event will be assessed by at least two reviewers, and a badge will be generated for you.
+7. The suggested badge will be added to this repository's top-level README to certify that your event has earned the badge.
+7. The process ends when the PR with the Badge is manually merged to the master branch.
