@@ -1,65 +1,38 @@
 # Event Review Checklist
 
-<!--
 
-This is the review checklist reviewers will use to analyze a CHAOSS Badging submission.
+## > Initial checks
 
--->
-## Initial checks
+- [ ] Event is about Open Source technolgies and systems.
+- [ ] Event information is publicly available on a website.
+- [ ] The Event Code of Conduct is publicly available.
+- [ ] The applicant is the organizer of the event.
 
-- Quantitative
-    - [ ] Event is about Open Source technologies and systems.
-    - [ ] Event information is publicly available on a website.
-    - [ ] The Event Code of Conduct is publicly available.
-    - [ ] The applicant is the organizer of the event.
-    
-    
-- Qualitative
-  - If any of the checks above are not met, or if the matter provided is insufficient, describe how.
+💡 ``` Make sure all the initial checks are marked before proceeding with Metric based checks```
 
-- Metric criteria ([reference](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md))
-  - Select the one that applies:
-      - [ ] First metric set
-      - [ ] Second metric set
-      - [ ] Third metric set
-      - [ ] Fourth metric set
+## > Metric based checks
 
+### >> Code of Conduct at Event
+- [ ] **Clarity** - Event Code of Conduct has a clear definition of expected behaviour.
+- [ ] **Reporting venue** - There is a clear venue for reporting violations of the CoC at the event website / event venue.
+- [ ] **Support at Event** - The Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior.
+- [ ] **Findability** - It is easy to find the Code of Conduct on the Event website.
+- [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
+    <!--For example: Emails or Phone numbers that can be contacted during the Event-->
 
-## Metric based checks
-<!--Metric based checks-->
-### Code of Conduct at Event
-- Quantitative
-    - [ ] Event Code of Conduct has a clear definition of expected behaviour.
-    - [ ] There is a clear venue for reporting violations of the CoC at the event website/event venue.
-    - [ ] The Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior.
-    <!--For example: Emails or Phone numbers.-->
-- Qualitative
-    - Provide feedback in case any of these checks are not met.
+### >> Speaker Demographics and Inclusivity
+- [ ] **Measuring demographics** - The Event has a clear process for measuring speaker demographics.
+  - Ask applicant about the process if information is not openly available.
+- [ ] **Inclusivity** - There is a diverse Reviewing panel for selecting Event Speakers.
 
-### Speaker Demographics
-<!--Approach - analyse process step by step-->
-- Quantitative
-    - [ ] The Event has a clear process for measuring speaker demographics.
-        - [ ] Ask applicant about the process if information is not openly available.
-- Qualitative
-    - If the above check is not met, explain how
-### Attendee Demographics
-- Quantitative
-    - [ ] The Event has a clear process for measuring Atendee demographics.
-        - [ ] Ask applicant about the process if information is not openly available.
-- Qualitative
-    - If the above check is not met, explain how.
+### >> Attendee Demographics and inclusivity
+- [ ] **Measuring Demographics** - The Event has a clear process for measuring Attendee demographics.
+  - Ask applicant about the process if information is not openly available.
 
-### Diversity Access tickets
-- Quantitative
-    - [ ] The Event has a clear process for allocating diversity access tickets.
-    - [ ] The information about Diversity Access Tickets is public and easy to find.
-    - [ ] There is a clear process for providing Diversity Access Tickets.
-- Qualitative
-    - If the above check is not met, explain how.
+### >> Diversity Access tickets
+- [ ] **Ticket allocation** - The Event has a clear process for allocating diversity access tickets.
+- [ ] **Findability** - The information about Diversity Access Tickets is public and easy to find.
 
-### Family Friendliness
-- Quantitative
-    - [ ] The Event provides services/facilities for families and the information about that is public.
-- Qualitative
-    - Provide feedback in case any of these checks are not met.
+### >> Family Friendliness
+- [ ] **Availability** - The Event claims to services/facilities for families.
+- [ ] **Findability** - The information about the family friendly services provided at the Event is easy to find on the website.
