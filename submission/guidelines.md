@@ -10,5 +10,6 @@
 4. An issue template will be created for you with the information you provided. Click "Create New Issue" to begin the application.
 5. Communicate with the reviewers during the process and provide Event information according to the metrics your event committed to.
 6. Your event will be assessed by at least two reviewers, and a badge will be generated for you.
-7. The suggested badge will be added to this repository's top-level README to certify that your event has earned the badge.
-7. The process ends when the PR with the Badge is manually merged to the master branch.
+7. Comment `/result` on the Application any time during the review to see the badge you have been assigned.
+8. Call `@badging/badging-moderators` team when you have implemented reviewer feedback and they have made changes accordingly to the Review Checklists, or at a point in time where you wish to end the review.
+7. The review ends when a moderator confirms that the initial checks are met. The issue is closed using `/end` command in a comment by a moderator.
