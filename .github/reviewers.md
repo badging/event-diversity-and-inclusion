@@ -1,4 +1,4 @@
 # Reviewer List
 <!--test reviewers-->
-- bistaastha
-- Nebrethar
+- germonprez
+- Ruth-ikegah
