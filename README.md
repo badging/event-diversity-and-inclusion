@@ -31,12 +31,12 @@ THINGS TO KEEP IN MIND:
 ## Badge levels
 
 Four statuses exist for the Diversity and Inclusion Event Badging:
-| Level        | Badge        |  Requirements Met
+| Level        | Badge        |  Percentage of Requirements Met
 |--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  Review ongoing/required deliverables not met
-| Passing      | ![Passing]   |  Required deliverables met
-| Silver       | ![Silver]    |  Event uses above-average D&I Practices
-| Gold         | ![Gold]      |  Event excels at D&I Practices
+| Pending      | ![Pending]   |  Less than 40%
+| Passing      | ![Passing]   |  Greater than or equal to 40% and less than 60%
+| Silver       | ![Silver]    |  Greater than or equal to 60% and less than 80%
+| Gold         | ![Gold]      |  Greater than 80%
 
 
 [Pending]: https://img.shields.io/badge/D%26I-Pending-red?style=flat-square&labelColor=583586&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1MCAyNTAiPgo8cGF0aCBmaWxsPSIjMUM5QkQ2IiBkPSJNOTcuMSw0OS4zYzE4LTYuNywzNy44LTYuOCw1NS45LTAuMmwxNy41LTMwLjJjLTI5LTEyLjMtNjEuOC0xMi4yLTkwLjgsMC4zTDk3LjEsNDkuM3oiLz4KPHBhdGggZmlsbD0iIzZBQzdCOSIgZD0iTTE5NC42LDMyLjhMMTc3LjIsNjNjMTQuOCwxMi4zLDI0LjcsMjkuNSwyNy45LDQ4LjVoMzQuOUMyMzYuMiw4MC4yLDIxOS45LDUxLjcsMTk0LjYsMzIuOHoiLz4KPHBhdGggZmlsbD0iI0JGOUNDOSIgZD0iTTIwNC45LDEzOS40Yy03LjksNDMuOS00OS45LDczLTkzLjgsNjUuMWMtMTMuOC0yLjUtMjYuOC04LjYtMzcuNS0xNy42bC0yNi44LDIyLjQKCWM0Ni42LDQzLjQsMTE5LjUsNDAuOSwxNjIuOS01LjdjMTYuNS0xNy43LDI3LTQwLjIsMzAuMS02NC4ySDIwNC45eiIvPgo8cGF0aCBmaWxsPSIjRDYxRDVGIiBkPSJNNTUuNiwxNjUuNkMzNS45LDEzMS44LDQzLjMsODguOCw3My4xLDYzLjVMNTUuNywzMy4yQzcuNSw2OS44LTQuMiwxMzcuNCwyOC44LDE4OEw1NS42LDE2NS42eiIvPgo8L3N2Zz4K
