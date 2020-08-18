@@ -2,10 +2,10 @@
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
-Date        | Event name                                       | Badge              |Application PR link     |
+Date        | Event name                                       | Badge              |Application Issue link     |
 ------------|--------------------------------------------------|--------------------|------------------------|
-Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Pending]         |<!--To be added later-->|
-Feb-16-2020 | Mock Event #2 (nowhere)
+Feb-01-2020 | Example Event                                    | ![Pending]         |<!--To be added later-->|
+Feb-16-2020 | Mock Event (The Beenz Meetup)                    | ![Passing]         |https://github.com/badging/event-diversity-and-inclusion/issues/46|
 <!-- SAMPLE ROW
 
 Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
