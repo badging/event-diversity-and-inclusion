@@ -25,9 +25,9 @@
 - [ ] **Clarity** - Event Code of Conduct has a clear definition of expected behaviour.
 - [ ] **Reporting venue** - There is a clear venue for reporting violations of the CoC at the event website / event venue.
 - [ ] **Support at Event** - The Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior.
+  - For example: The Code of conduct contains emails or phone numbers that can be contacted during the Event.
 - [ ] **Findability** - It is easy to find the Code of Conduct on the Event website.
 - [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
-    <!--For example: Emails or Phone numbers that can be contacted during the Event-->
 
 ### >> Diversity Access tickets
 - [ ] **Ticket allocation** - The Event has a clear process for allocating diversity access tickets.
