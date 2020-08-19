@@ -13,26 +13,22 @@
 ## > Metric based checks
 
 ### >> Speaker Demographics and Inclusivity
-- [ ] **Measuring demographics** - The Event has a clear process for measuring speaker demographics.
-  - Ask applicant about the process if information is not openly available.
-- [ ] **Inclusivity** - There is a diverse Reviewing panel for selecting Event Speakers.
+- [ ] **Measuring demographics** - The Event measures speaker demographics.
+- [ ] **Inclusivity** - A review system is used when selecting Event Speakers.
 
 ### >> Attendee Demographics and inclusivity
-- [ ] **Measuring Demographics** - The Event has a clear process for measuring Attendee demographics.
-  - Ask applicant about the process if information is not openly available.
+- [ ] **Measuring Demographics** - The Event measures Attendee demographics.
 
 ### >> Code of Conduct at Event
-- [ ] **Clarity** - Event Code of Conduct has a clear definition of expected behaviour.
-- [ ] **Reporting venue** - There is a clear venue for reporting violations of the CoC at the event website / event venue.
-- [ ] **Support at Event** - The Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior.
-  - For example: The Code of conduct contains emails or phone numbers that can be contacted during the Event.
-- [ ] **Findability** - It is easy to find the Code of Conduct on the Event website.
-- [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
+- [ ] **Clarity** - Event Code of Conduct has a definition of expected behaviour.
+- [ ] **Reporting venue** - Code of conduct violations can be reported on the event website. 
+- [ ] **Support at Event** - The Event Code of Conduct OR the event website provide information about possible ways to provide support to victims of inappropriate behavior.
+- [ ] **Enforcement** - The participants in the event are required to accept the Code of Conduct.
 
 ### >> Diversity Access tickets
-- [ ] **Ticket allocation** - The Event has a clear process for allocating diversity access tickets.
-- [ ] **Findability** - The information about Diversity Access Tickets is public and easy to find.
+- [ ] **Ticket distribution** - The Event has a process for distributing diversity access tickets.
+- [ ] **Findability** - The information about Diversity Access Tickets is public.
 
 ### >> Family Friendliness
-- [ ] **Availability** - The Event claims to services/facilities for families.
-- [ ] **Findability** - The information about the family friendly services provided at the Event is easy to find on the website.
+- [ ] **Availability** - The Event provides services for families.
+- [ ] **Findability** - The information about the family friendly services provided at the Event is accessible on the website.
