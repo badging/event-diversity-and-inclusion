@@ -14,4 +14,4 @@ Resource:
 - `Q` What is your history with Diversity & Inclusion in Open Source?
 - `A` 
 
-[ ] I understand that I must identify and act upon any conflicts of interest.
+- [ ] I understand that I must identify and act upon any conflicts of interest.
