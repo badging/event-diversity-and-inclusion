@@ -12,27 +12,30 @@
 
 ## > Metric based checks
 
+### >> Speaker Demographics and Inclusivity
+- [ ] **Measuring demographics** - The Event has a process for measuring speaker demographics.
+- [ ] **Displaying demographics** - The Event displays speaker demographics.
+  - Ask applicant about the process if information is not openly available.
+
+### >> Attendee Demographics and inclusivity
+- [ ] **Measuring Demographics** - The Event has a process for measuring Attendee demographics.
+- [ ] **Displaying demographics** - The Event displays attendee demographics.
+- [ ] **Attendee Inclusivity** - The Event requests feedback from attendees regarding Diversity & Inclusion.
+  - Ask applicant about the process if information is not openly available.
+
 ### >> Code of Conduct at Event
-- [ ] **Clarity** - Event Code of Conduct has a clear definition of expected behaviour.
-- [ ] **Reporting venue** - There is a clear venue for reporting violations of the CoC at the event website / event venue.
-- [ ] **Support at Event** - The Event Code of Conduct OR event website provide information about possible ways to provide support to victims of inappropriate behavior.
-- [ ] **Findability** - It is easy to find the Code of Conduct on the Event website.
+- [ ] **Findability** - It is possible to find the Code of Conduct on the Event website.
+- [ ] **Clarity** - Event Code of Conduct provides a definition of expected behaviour.
+- [ ] **Reporting venue** - The event has a venue for reporting violations of the CoC at the event website.
+- [ ] **Support at Event** - The Event Code of Conduct provided information about possible methods to provide support to victims of inappropriate behavior.
 - [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
     <!--For example: Emails or Phone numbers that can be contacted during the Event-->
 
-### >> Speaker Demographics and Inclusivity
-- [ ] **Measuring demographics** - The Event has a clear process for measuring speaker demographics.
-  - Ask applicant about the process if information is not openly available.
-- [ ] **Inclusivity** - There is a diverse Reviewing panel for selecting Event Speakers.
-
-### >> Attendee Demographics and inclusivity
-- [ ] **Measuring Demographics** - The Event has a clear process for measuring Attendee demographics.
-  - Ask applicant about the process if information is not openly available.
-
 ### >> Diversity Access tickets
+- [ ] **Availability** - The event provides one or more Diversity Access Tickets.
 - [ ] **Ticket allocation** - The Event has a clear process for allocating diversity access tickets.
-- [ ] **Findability** - The information about Diversity Access Tickets is public and easy to find.
+- [ ] **Findability** - The information about Diversity Access Tickets is public.
 
 ### >> Family Friendliness
-- [ ] **Availability** - The Event claims to services/facilities for families.
+- [ ] **Availability** - The Event provides one or more services/facilities for families.
 - [ ] **Findability** - The information about the family friendly services provided at the Event is easy to find on the website.
