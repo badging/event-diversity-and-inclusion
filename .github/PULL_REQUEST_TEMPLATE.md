@@ -11,7 +11,13 @@ Resource:
 - Organization:
 
 ### Background
+- `Q` Tell us a bit about who you are and why you're intested in the CHAOSS D&I Badging Program
+- `A` 
+
 - `Q` What is your history with Diversity & Inclusion in Open Source?
+- `A` 
+
+- `Q` Is it okay if we include your name on our website as CHAOSS D&I Badging Program Reviewer? 
 - `A` 
 
 - [ ] I understand that I must identify and act upon any conflicts of interest.
