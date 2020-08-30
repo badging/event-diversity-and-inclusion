@@ -3,4 +3,4 @@
 - germonprez
 - Ruth-ikegah
 - tetris4
-- Anita Ihuman
+- Anita-ihuman
