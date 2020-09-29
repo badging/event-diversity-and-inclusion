@@ -6,4 +6,4 @@
 - hqrshguptq
 - djmitche
 - InquisitiveVi
-- Udoka Ugochukwu
+- UdokaVrede
