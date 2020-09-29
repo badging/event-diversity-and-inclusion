@@ -16,6 +16,8 @@
 - [ ] **Measuring demographics** - The Event has a process for measuring speaker demographics.
 - [ ] **Displaying demographics** - The Event displays speaker demographics.
   - Ask applicant about the process if information is not openly available.
+- [ ] **Speaker Diversity** Speakers come from diverse backgrounds.
+- [ ] **Diversity Specifics** Speakers are diverse when grouped by keynotes, sessions, and tracks.
 
 ### >> Attendee Demographics and inclusivity
 - [ ] **Measuring Demographics** - The Event has a process for measuring Attendee demographics.
