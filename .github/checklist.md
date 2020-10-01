@@ -14,13 +14,16 @@
 
 ### >> Speaker Demographics and Inclusivity
 - [ ] **Measuring demographics** - The Event has a process for measuring speaker demographics.
-- [ ] **Displaying demographics** - The Event displays speaker demographics.
-  - Ask applicant about the process if information is not openly available.
 - [ ] **Speaker Diversity** Speakers come from diverse backgrounds.
 - [ ] **Diversity Specifics** Speakers are diverse when grouped by keynotes, sessions, and tracks.
+- [ ] **Displaying demographics** - The Event displays speaker demographics.
+- [ ] **Diversity Improvements** The Event has measurements to improve diversity of speaker demographics.
+  - Ask applicant about the process if information is not openly available.
 
 ### >> Attendee Demographics and inclusivity
 - [ ] **Measuring Demographics** - The Event has a process for measuring Attendee demographics.
+- [ ] **Attendee Diversity** Attendees come from diverse backgrounds.
+- [ ] **Diversity Specifics** Attendees are diverse when grouped by keynotes, sessions, and tracks.
 - [ ] **Displaying demographics** - The Event displays attendee demographics.
 - [ ] **Attendee Inclusivity** - The Event requests feedback from attendees regarding Diversity & Inclusion.
   - Ask applicant about the process if information is not openly available.
@@ -36,8 +39,13 @@
 ### >> Diversity Access tickets
 - [ ] **Availability** - The event provides one or more Diversity Access Tickets.
 - [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets.
+- [ ] **Ticket qualification** - The Event has criteria for qualifying for diversity access tickets.
 - [ ] **Findability** - The information about Diversity Access Tickets is public.
+- [ ] **Sponsorship** - Regular attendees are encouraged to sponsor diversity access tickets.
 
 ### >> Family Friendliness
 - [ ] **Availability** - The Event provides one or more services/facilities for families.
+- [ ] **Facilities** - The event has a mother’s room.
+- [ ] **Facilities** - The event offers child care.
+- [ ] **Facilities** - The event has special seesions for children.
 - [ ] **Findability** - The information about the family friendly services provided at the Event is easy to find on the website.
