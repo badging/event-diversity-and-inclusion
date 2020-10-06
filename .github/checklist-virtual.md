@@ -13,25 +13,32 @@
 ## > Metric based checks
 
 ### >> Speaker Demographics and Inclusivity
-- [ ] **Measuring demographics** - The Event has a process for measuring speaker demographics.
-- [ ] **Displaying demographics** - The Event displays speaker demographics.
+- [ ] **Demographics Measurement** - The Event has a process for measuring speaker demographics.
+- [ ] **Speaker Diversity** - Speakers come from diverse backgrounds.
+- [ ] **Diversity Specific** - Speakers are diverse when grouped by keynotes, sessions, and tracks.
+- [ ] **Demographics Displayment** - The Event displays speaker demographics.
+- [ ] **Diversity Improvement** - The Event has measurements to improve diversity of speaker demographics.
   - Ask applicant about the process if information is not openly available.
 
 ### >> Attendee Demographics and inclusivity
-- [ ] **Measuring Demographics** - The Event has a process for measuring Attendee demographics.
-- [ ] **Displaying demographics** - The Event displays attendee demographics.
+- [ ] **Demographics Measurement** - The Event has a process for measuring Attendee demographics.
+- [ ] **Attendee Diversity** - Attendees come from diverse backgrounds.
+- [ ] **Diversity Specific** - Attendees are diverse when grouped by keynotes, sessions, and tracks.
+- [ ] **Demographics Displayment** - The Event displays attendee demographics.
 - [ ] **Attendee Inclusivity** - The Event requests feedback from attendees regarding Diversity & Inclusion.
   - Ask applicant about the process if information is not openly available.
 
 ### >> Code of Conduct at Event
 - [ ] **Findability** - It is possible to find the Code of Conduct on the Event website.
 - [ ] **Clarity** - Event Code of Conduct provides a definition of expected behaviour.
-- [ ] **Reporting venue** - The event has a venue for reporting violations of the CoC at the event website.
+- [ ] **Reporting Venue** - The event has a venue for reporting violations of the CoC at the event website.
 - [ ] **Support at Event** - The Event Code of Conduct provided information about possible methods to provide support to victims of inappropriate behavior.
 - [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
     <!--For example: Emails or Phone numbers that can be contacted during the Event-->
 
 ### >> Diversity Access tickets
 - [ ] **Availability** - The event provides one or more Diversity Access Tickets.
-- [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets.
+- [ ] **Ticket Allocation** - The Event has a process for allocating diversity access tickets.
+- [ ] **Ticket Qualification** - The Event has criteria for qualifying for diversity access tickets.
 - [ ] **Findability** - The information about Diversity Access Tickets is public.
+- [ ] **Sponsorship** - Regular participants are encouraged to sponsor diversity access tickets.
