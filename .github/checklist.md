@@ -13,17 +13,17 @@
 ## > Metric based checks
 
 ### >> Speaker Demographics and Inclusivity
-- [ ] **Demographics Measurements** - The Event has a process for measuring speaker demographics.
+- [ ] **Demographics Measurement** - The Event has a process for measuring speaker demographics.
 - [ ] **Speaker Diversity** - Speakers come from diverse backgrounds.
-- [ ] **Diversity Specifics** - Speakers are diverse when grouped by keynotes, sessions, and tracks.
+- [ ] **Diversity Specific** - Speakers are diverse when grouped by keynotes, sessions, and tracks.
 - [ ] **Demographics Displayment** - The Event displays speaker demographics.
-- [ ] **Diversity Improvements** - The Event has measurements to improve diversity of speaker demographics.
+- [ ] **Diversity Improvement** - The Event has measurements to improve diversity of speaker demographics.
   - Ask applicant about the process if information is not openly available.
 
 ### >> Attendee Demographics and inclusivity
-- [ ] **Demographics Measurements** - The Event has a process for measuring Attendee demographics.
-- [ ] **Attendee Diversity** Attendees come from diverse backgrounds.
-- [ ] **Diversity Specifics** Attendees are diverse when grouped by keynotes, sessions, and tracks.
+- [ ] **Demographics Measurement** - The Event has a process for measuring Attendee demographics.
+- [ ] **Attendee Diversity** - Attendees come from diverse backgrounds.
+- [ ] **Diversity Specific** - Attendees are diverse when grouped by keynotes, sessions, and tracks.
 - [ ] **Demographics Displayment** - The Event displays attendee demographics.
 - [ ] **Attendee Inclusivity** - The Event requests feedback from attendees regarding Diversity & Inclusion.
   - Ask applicant about the process if information is not openly available.
@@ -41,8 +41,11 @@
 - [ ] **Ticket Allocation** - The Event has a process for allocating diversity access tickets.
 - [ ] **Ticket Qualification** - The Event has criteria for qualifying for diversity access tickets.
 - [ ] **Findability** - The information about Diversity Access Tickets is public.
-- [ ] **Sponsorship** - Regular attendees are encouraged to sponsor diversity access tickets.
+- [ ] **Sponsorship** - Regular participants are encouraged to sponsor diversity access tickets.
 
 ### >> Family Friendliness
 - [ ] **Availability** - The Event provides one or more services/facilities for families.
 - [ ] **Findability** - The information about the family friendly services provided at the Event is easy to find on the website.
+- [ ] **Facilities Promotion** - The Event promotes having diverse facilities for families.
+- [ ] **Encouragement** - The Event explicitly invite attendees to bring their children.
+
