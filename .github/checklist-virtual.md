@@ -3,7 +3,7 @@
 
 ## > Initial checks
 
-- [ ] Event is about Open Source technolgies and systems.
+- [ ] Event is about Open Source technologies and systems.
 - [ ] Event information is publicly available on a website.
 - [ ] The Event Code of Conduct is publicly available.
 - [ ] The applicant is the organizer of the event.
@@ -17,10 +17,10 @@
 - [ ] **Displaying demographics** - The Event displays speaker demographics.
   - Ask applicant about the process if information is not openly available.
 
-### >> Attendee Demographics and inclusivity
-- [ ] **Measuring Demographics** - The Event has a process for measuring Attendee demographics.
+### >> Attendee Demographics and Inclusivity
+- [ ] **Measuring demographics** - The Event has a process for measuring Attendee demographics.
 - [ ] **Displaying demographics** - The Event displays attendee demographics.
-- [ ] **Attendee Inclusivity** - The Event requests feedback from attendees regarding Diversity & Inclusion.
+- [ ] **Attendee inclusivity** - The Event requests feedback from attendees regarding Diversity & Inclusion.
   - Ask applicant about the process if information is not openly available.
 
 ### >> Code of Conduct at Event
