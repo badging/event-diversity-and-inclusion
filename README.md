@@ -6,6 +6,7 @@ Date        | Event name                                       | Badge          
 ------------|--------------------------------------------------|--------------------|------------------------|
 Feb-16-2020 | Mock Event (The Beenz Meetup)                    | ![Passing]         |https://github.com/badging/event-diversity-and-inclusion/issues/46|
 Dec-09-2020 | FOSS Backstage                                   | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/59|
+Jan-25-2021 | DPDK Summit APAC 2021                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/60|
 <!-- SAMPLE ROW
 
 Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
