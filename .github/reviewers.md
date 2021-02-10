@@ -3,6 +3,5 @@
 - Ruth-ikegah
 - tetris4
 - Anita-ihuman
-- hqrshguptq
 - djmitche
-- InquisitiveVi
+- germonprez
