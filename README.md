@@ -9,6 +9,7 @@ Dec-09-2020 | FOSS Backstage                                   | ![Gold]        
 Jan-25-2021 | DPDK Summit APAC 2021                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/60|
 Feb-03-2021 | cdCon 2021                                       | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/61|
 Feb-18-2021 | PrestoCon Day                                    | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/62|
+Feb-23-2021 | Hyperledger Global Forum 2021                    | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/65|
 <!-- SAMPLE ROW
 
 Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
