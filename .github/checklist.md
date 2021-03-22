@@ -13,8 +13,8 @@
 ## > Metric based checks
 
 ### >> Speaker Demographics and Inclusivity
-- [ ] **Measuring demographics** - The Event has a process for measuring speaker demographics.
-- [ ] **Requesting feedback** - The Event requests feedback from speakers regarding Diversity & Inclusion.
+- [ ] **Measuring Demographics** - The Event has a process for measuring speaker demographics.
+- [ ] **Speaker Inclusivity** - The Event requests feedback from speakers regarding Diversity & Inclusion.
   - Ask applicant about the process if information is not openly available.
 
 ### >> Attendee Demographics and inclusivity
