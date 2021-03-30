@@ -11,6 +11,7 @@ Feb-03-2021 | cdCon 2021                                       | ![Gold]        
 Feb-18-2021 | PrestoCon Day 2021                               | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/62|
 Feb-23-2021 | Hyperledger Global Forum 2021                    | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/65|
 Feb-25-2021 | OpenJS World 2021                                | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/64|
+Mar-30-2021 | Berlin Buzzwords                                 | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/68|
 <!-- SAMPLE ROW
 
 Mmm-dd-yyyy | Event name (venue)                               |                    |                        |
