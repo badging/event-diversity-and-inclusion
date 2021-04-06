@@ -14,7 +14,9 @@ Feb-25-2021 | OpenJS World 2021                                | ![Gold]        
 Mar-30-2021 | Berlin Buzzwords                                 | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/68|
 Apr-01-2021 | Cloud Native Security Day Europe 2021            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/75|
 Apr-03-2021 | Cloud Native WASM Day                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/76|
-Apr-03-2021 | Crossplane Community Day Europe.                 | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/77|
+Apr-03-2021 | Crossplane Community Day Europe                  | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/77|
+Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/72|
+
 
 
 <!-- SAMPLE ROW
