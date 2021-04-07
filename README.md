@@ -16,7 +16,7 @@ Apr-01-2021 | Cloud Native Security Day Europe 2021            | ![Gold]        
 Apr-03-2021 | Cloud Native WASM Day                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/76|
 Apr-03-2021 | Crossplane Community Day Europe                  | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/77|
 Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/72|
-Apr-05-2021 | FluentCon                                        | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/78|
+Apr-05-2021 | Fluentcon                                        | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/78|
 
 
 <!-- SAMPLE ROW
