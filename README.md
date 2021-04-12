@@ -18,6 +18,8 @@ Apr-03-2021 | Crossplane Community Day Europe                  | ![Gold]        
 Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/72|
 Apr-07-2021 | Fluentcon                                        | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/78|
 Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/74|
+Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/80|
+
 
 
 <!-- SAMPLE ROW
