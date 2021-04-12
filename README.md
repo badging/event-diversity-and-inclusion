@@ -19,6 +19,7 @@ Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]        
 Apr-07-2021 | Fluentcon                                        | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/78|
 Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/74|
 Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/80|
+Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/82|
 
 
 
