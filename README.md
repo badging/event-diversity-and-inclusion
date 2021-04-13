@@ -20,6 +20,7 @@ Apr-07-2021 | Fluentcon                                        | ![Gold]        
 Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/74|
 Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/80|
 Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/82|
+Apr-13-2021 | Kuberenetes AI Day                               | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/79|
 
 
 
