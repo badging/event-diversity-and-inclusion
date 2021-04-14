@@ -2,25 +2,25 @@
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
-Date        | Event name                                       | Badge              |Application Issue link     |
-------------|--------------------------------------------------|--------------------|------------------------|
-Feb-16-2020 | Mock Event (The Beenz Meetup)                    | ![Passing]         |https://github.com/badging/event-diversity-and-inclusion/issues/46|
-Dec-09-2020 | FOSS Backstage                                   | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/59|
-Jan-25-2021 | DPDK Summit APAC 2021                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/60|
-Feb-03-2021 | cdCon 2021                                       | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/61|
-Feb-18-2021 | PrestoCon Day 2021                               | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/62|
-Feb-23-2021 | Hyperledger Global Forum 2021                    | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/65|
-Feb-25-2021 | OpenJS World 2021                                | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/64|
-Mar-30-2021 | Berlin Buzzwords                                 | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/68|
-Apr-01-2021 | Cloud Native Security Day Europe 2021            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/75|
-Apr-03-2021 | Cloud Native WASM Day                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/76|
-Apr-03-2021 | Crossplane Community Day Europe                  | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/77|
-Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/72|
-Apr-07-2021 | Fluentcon                                        | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/78|
-Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/74|
-Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/80|
-Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/82|
-Apr-13-2021 | Kuberenetes AI Day                               | ![Gold]            |https://github.com/badging/event-diversity-and-inclusion/issues/79|
+Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
+------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
+Feb-16-2020 | Mock Event (The Beenz Meetup)                    | ![Passing]         | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/46|
+Dec-09-2020 | FOSS Backstage                                   | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/59|
+Jan-25-2021 | DPDK Summit APAC 2021                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/60|
+Feb-03-2021 | cdCon 2021                                       | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/61|
+Feb-18-2021 | PrestoCon Day 2021                               | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/62|
+Feb-23-2021 | Hyperledger Global Forum 2021                    | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/65|
+Feb-25-2021 | OpenJS World 2021                                | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/64|
+Mar-30-2021 | Berlin Buzzwords                                 | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/68|
+Apr-01-2021 | Cloud Native Security Day Europe 2021            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/75|
+Apr-03-2021 | Cloud Native WASM Day                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/76|
+Apr-03-2021 | Crossplane Community Day Europe                  | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/77|
+Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/72|
+Apr-07-2021 | Fluentcon                                        | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/78|
+Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/74|
+Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/80|
+Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/82|
+Apr-13-2021 | Kuberenetes AI Day                               | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/79|
 
 
 
