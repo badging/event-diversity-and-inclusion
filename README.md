@@ -4,7 +4,7 @@ To learn more about our project, please checfk out our [main repository](https:/
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
-## Event Badging 2.0 is released! 
+## Event Badging 2.0 is Released! 
 We have changed some minor details of documentation, and [rephrased](https://github.com/badging/event-diversity-and-inclusion/pull/69) a demographic question.
 Here's looking forward to a great rest of the year!
 
