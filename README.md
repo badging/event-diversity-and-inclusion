@@ -27,6 +27,7 @@ Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]        
 Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/80|
 Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/82|
 Apr-13-2021 | Kuberenetes AI Day                               | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/79|
+Apr-15-2021 | PromCon Online 2021                              | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/81|
 
 
 
