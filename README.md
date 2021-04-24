@@ -8,6 +8,12 @@ Please review the Diversity and Inclusion [Event Submission Guidelines](https://
 We have changed some minor details of documentation, and [rephrased](https://github.com/badging/event-diversity-and-inclusion/pull/69) a demographic question.
 Here's looking forward to a great rest of the year!
 
+# Badges Granted: Version 2
+Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
+------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
+Apr-24-2021 | API Specifications Conference (ASC) 2021         | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/83|
+
+# Badges Granted: Version 1
 Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
 ------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
 Feb-16-2020 | Mock Event (The Beenz Meetup)                    | ![Passing]         | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/46|
@@ -28,7 +34,6 @@ Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]        
 Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/82|
 Apr-13-2021 | Kuberenetes AI Day                               | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/79|
 Apr-15-2021 | PromCon Online 2021                              | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/81|
-Apr-24-2021 | API Specifications Conference (ASC) 2021         | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/83|
 
 
 
