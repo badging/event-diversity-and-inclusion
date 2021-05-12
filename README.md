@@ -11,6 +11,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
 ------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
+May-12-2021 | DPDK Summit North America                        | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/85|
 Apr-24-2021 | API Specifications Conference (ASC) 2021         | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/83|
 
 # Badges Granted: Version 1
