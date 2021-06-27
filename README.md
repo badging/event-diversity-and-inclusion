@@ -1,6 +1,6 @@
 # Diversity and Inclusion Badging for Events
 
-To learn more about our project, please checfk out our [main repository](https://github.com/badging/diversity-and-inclusion).
+To learn more about our project, please check out our [main repository](https://github.com/badging/diversity-and-inclusion).
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
