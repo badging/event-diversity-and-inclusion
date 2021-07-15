@@ -4,6 +4,11 @@ To learn more about our project, please check out our [main repository](https://
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
+## Event Badging 3.0 is Underway
+Keep in mind
+- We will be freezing new changes for community review on September 5, 2021
+- New changes will take effect on September 30, 2021
+
 ## Event Badging 2.0 is Released! 
 We have changed some minor details of documentation, and [rephrased](https://github.com/badging/event-diversity-and-inclusion/pull/69) a demographic question.
 Here's looking forward to a great rest of the year!
@@ -11,6 +16,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
 ------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
+Jul-15-2021 | PX4 Developer Summit 2021                        | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/88|
 Jun-26-2021 | Cloud Foundry Summit 2021                        | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/86|
 Jun-03-2021 | LFN Developer & Testing Forums 2021              | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/84|
 May-12-2021 | DPDK Summit North America                        | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/85|
