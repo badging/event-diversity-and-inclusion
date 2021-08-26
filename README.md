@@ -16,6 +16,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
 ------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
+Aug-26-2021 | Open Source Strategy Forum London 2021           | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/92|
 Aug-23-2021 | O3DECon 2021                                     | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/91|
 Jul-15-2021 | PX4 Developer Summit 2021                        | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/88|
 Jun-26-2021 | Cloud Foundry Summit 2021                        | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/86|
