@@ -16,6 +16,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
 ------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
+Sep-07-2021 | Open Source Leeds Meetup                         | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/96|
 Sep-01-2021 | OSPOCon Europe 2021                              | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/94|
 Sep-01-2021 | RISC-V Summit 2021                               | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/93|
 Aug-26-2021 | Open Source Strategy Forum London 2021           | ![Gold]            | v2.0     |https://github.com/badging/event-diversity-and-inclusion/issues/92|
