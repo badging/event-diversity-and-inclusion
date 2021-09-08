@@ -8,6 +8,7 @@ Please review the Diversity and Inclusion [Event Submission Guidelines](https://
 Keep in mind
 - We will be freezing new changes for community review on October 5, 2021
 - New changes will take effect on November 1, 2021
+- Reviews that started after November 1, 2021 will be considered using the v3 metric set
 
 ## Event Badging 2.0 is Released! 
 We have changed some minor details of documentation, and [rephrased](https://github.com/badging/event-diversity-and-inclusion/pull/69) a demographic question.
