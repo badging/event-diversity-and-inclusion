@@ -17,6 +17,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
 ------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
+Sep-25-2021 | Cloud Native DevX Day North America hosted by CNCF          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/103|
 Sep-16-2021 | Open Networking & Edge Summit + Kubernetes on Edge Day 2021 | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/101|
 Sep-16-2021 | Open Source Summit 2021                                     | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/98 |
 Sep-07-2021 | Open Source Leeds Meetup                                    | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/96 |
