@@ -17,6 +17,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                                  | Badge   |Version  | Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Sep-27-2021 | Cloud Native Wasm Day North America                         | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/108|
 Sep-27-2021 | PromCon North America 2021                                  | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/109|
 Sep-26-2021 | Cloud Native eBPF Day North America hosted by CNCF          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/104|
 Sep-26-2021 | ServiceMeshCon North America hosted by CNCF                 | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/107|
