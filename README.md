@@ -17,6 +17,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                                  | Badge   |Version  | Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Sep-26-2021 | Cloud Native eBPF Day North America hosted by CNCF          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/104|
 Sep-26-2021 | ServiceMeshCon North America hosted by CNCF                 | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/107|
 Sep-26-2021 | FluentCon North America hosted by CNCF                      | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/105|
 Sep-25-2021 | Cloud Native DevX Day North America hosted by CNCF          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/103|
