@@ -6,7 +6,7 @@ Please review the Diversity and Inclusion [Event Submission Guidelines](https://
 
 ## Event Badging 3.0 is Underway
 Keep in mind
-- We will be freezing new changes for community review on October 5, 2021
+- We have frozen changes for community review on October 5, 2021
 - New changes will take effect on November 1, 2021
 - Applications submitted after November 1, 2021 will be reviewed using the Event Badging v3 checklist
 
