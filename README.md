@@ -17,6 +17,7 @@ Here's looking forward to a great rest of the year!
 # Badges Granted: Version 2
 Date        | Event name                                                  | Badge   |Version  | Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-14-2021 | Linux Foundation Member Summit 2021                         | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/121|
 Oct-04-2021 | Kubernetes AI Day North America                             | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/114|
 Oct-04-2021 | EnvoyCon North America                                      | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/113|
 Sep-28-2021 | GitOpsCon North America                                     | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/110|
