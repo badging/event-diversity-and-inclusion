@@ -4,15 +4,12 @@ To learn more about our project, please check out our [main repository](https://
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
-## Event Badging 3.0 is Underway
-Keep in mind
-- We have frozen changes for community review on October 5, 2021
-- New changes will take effect on November 1, 2021
-- Applications submitted after November 1, 2021 will be reviewed using the Event Badging v3 checklist
+## Event Badging 3.0 is Released! 
+We are happy to announce that we have released the largest update so far!
 
-## Event Badging 2.0 is Released! 
-We have changed some minor details of documentation, and [rephrased](https://github.com/badging/event-diversity-and-inclusion/pull/69) a demographic question.
-Here's looking forward to a great rest of the year!
+We have added new metrics to the review process and performed some much-needed updates to our process for awarding badges.
+
+Please Note: All applications from now on will be considered using v3 metrics until the next release.
 
 # Badges Granted: Version 2
 Date        | Event name                                                  | Badge   |Version  | Application Issue link                                            |
