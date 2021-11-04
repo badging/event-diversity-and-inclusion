@@ -12,55 +12,55 @@ We have added new metrics to the review process and performed some much-needed u
 Please Note: All applications from now on will be considered using v3 metrics until the next release.
 
 # Badges Granted: Version 2
-Date        | Event name                                                  | Badge   |Version  | Application Issue link                                            |
+Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
-Oct-19-2021 | Reactive Summit 2021                                        | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/124|
-Oct-14-2021 | Linux Foundation Member Summit 2021                         | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/121|
-Oct-04-2021 | Kubernetes AI Day North America                             | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/114|
-Oct-04-2021 | EnvoyCon North America                                      | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/113|
-Sep-28-2021 | GitOpsCon North America                                     | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/110|
-Sep-27-2021 | Cloud Native Security Conference NA hosted by CNCF          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/106|
-Sep-27-2021 | KubeCon+CloudNativeCon North America 2021                   | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/102|
-Sep-27-2021 | Cloud Native Wasm Day North America                         | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/108|
-Sep-27-2021 | PromCon North America 2021                                  | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/109|
-Sep-26-2021 | Cloud Native eBPF Day North America hosted by CNCF          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/104|
-Sep-26-2021 | ServiceMeshCon North America hosted by CNCF                 | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/107|
-Sep-26-2021 | FluentCon North America hosted by CNCF                      | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/105|
-Sep-25-2021 | Cloud Native DevX Day North America hosted by CNCF          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/103|
-Sep-16-2021 | Open Networking & Edge Summit + Kubernetes on Edge Day 2021 | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/101|
-Sep-16-2021 | Open Source Summit 2021                                     | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/98 |
-Sep-07-2021 | Open Source Leeds Meetup                                    | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/96 |
-Sep-01-2021 | OSPOCon Europe 2021                                         | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/94 |
-Sep-01-2021 | RISC-V Summit 2021                                          | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/93 |
-Aug-26-2021 | Open Source Strategy Forum London 2021                      | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/92 |
-Aug-23-2021 | O3DECon 2021                                                | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/91 |
-Jul-15-2021 | PX4 Developer Summit 2021                                   | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/88 |
-Jun-26-2021 | Cloud Foundry Summit 2021                                   | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/86 |
-Jun-03-2021 | LFN Developer & Testing Forums 2021                         | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/84 |
-May-12-2021 | DPDK Summit North America                                   | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/85 |
-Apr-24-2021 | API Specifications Conference (ASC) 2021                    | ![Gold] | v2.0    |https://github.com/badging/event-diversity-and-inclusion/issues/83 |
+Oct-19-2021 | Reactive Summit 2021                                        | ![Gold] | @Dhruv-Sachdev1313 @tetris4        |https://github.com/badging/event-diversity-and-inclusion/issues/124|
+Oct-14-2021 | Linux Foundation Member Summit 2021                         | ![Gold] | @Victorybrown @Ruth-ikegah         |https://github.com/badging/event-diversity-and-inclusion/issues/121|
+Oct-04-2021 | Kubernetes AI Day North America                             | ![Gold] | @klumb @ElizabethN                 |https://github.com/badging/event-diversity-and-inclusion/issues/114|
+Oct-04-2021 | EnvoyCon North America                                      | ![Gold] | @geekygirldawn @Dhruv-Sachdev1313  |https://github.com/badging/event-diversity-and-inclusion/issues/113|
+Sep-28-2021 | GitOpsCon North America                                     | ![Gold] | @germonprez @KafayahL              |https://github.com/badging/event-diversity-and-inclusion/issues/110|
+Sep-27-2021 | Cloud Native Security Conference NA hosted by CNCF          | ![Gold] | @ElizabethN @Dhruv-Sachdev1313     |https://github.com/badging/event-diversity-and-inclusion/issues/106|
+Sep-27-2021 | KubeCon+CloudNativeCon North America 2021                   | ![Gold] | @germonprez @Anita-ihuman          |https://github.com/badging/event-diversity-and-inclusion/issues/102|
+Sep-27-2021 | Cloud Native Wasm Day North America                         | ![Gold] | @germonprez @spotz                 |https://github.com/badging/event-diversity-and-inclusion/issues/108|
+Sep-27-2021 | PromCon North America 2021                                  | ![Gold] | @tetris4 @Ruth-ikegah              |https://github.com/badging/event-diversity-and-inclusion/issues/109|
+Sep-26-2021 | Cloud Native eBPF Day North America hosted by CNCF          | ![Gold] | @KafayahL @Ruth-ikegah             |https://github.com/badging/event-diversity-and-inclusion/issues/104|
+Sep-26-2021 | ServiceMeshCon North America hosted by CNCF                 | ![Gold] | @tetris4 @KafayahL                 |https://github.com/badging/event-diversity-and-inclusion/issues/107|
+Sep-26-2021 | FluentCon North America hosted by CNCF                      | ![Gold] | @Gemarodri @bistaastha             |https://github.com/badging/event-diversity-and-inclusion/issues/105|
+Sep-25-2021 | Cloud Native DevX Day North America hosted by CNCF          | ![Gold] | @spotz @xiaoya-Esther              |https://github.com/badging/event-diversity-and-inclusion/issues/103|
+Sep-16-2021 | Open Networking & Edge Summit + Kubernetes on Edge Day 2021 | ![Gold] | @Dhruv-Sachdev1313 @Ruth-ikegah    |https://github.com/badging/event-diversity-and-inclusion/issues/101|
+Sep-16-2021 | Open Source Summit 2021                                     | ![Gold] | @spotz @KafayahL                   |https://github.com/badging/event-diversity-and-inclusion/issues/98|
+Sep-07-2021 | Open Source Leeds Meetup                                    | ![Gold] | @germonprez @spotz                 |https://github.com/badging/event-diversity-and-inclusion/issues/96|
+Sep-01-2021 | OSPOCon Europe 2021                                         | ![Gold] | @tetris4 @Ruth-ikegah              |https://github.com/badging/event-diversity-and-inclusion/issues/94|
+Sep-01-2021 | RISC-V Summit 2021                                          | ![Gold] | @bistaastha @Anita-ihuman          |https://github.com/badging/event-diversity-and-inclusion/issues/93|
+Aug-26-2021 | Open Source Strategy Forum London 2021                      | ![Gold] | @djmitche @ElizabethN              |https://github.com/badging/event-diversity-and-inclusion/issues/92|
+Aug-23-2021 | O3DECon 2021                                                | ![Gold] | @Gemarodri @Ruth-ikegah            |https://github.com/badging/event-diversity-and-inclusion/issues/91|
+Jul-15-2021 | PX4 Developer Summit 2021                                   | ![Gold] | @Xiaoya-esther @tetris4            |https://github.com/badging/event-diversity-and-inclusion/issues/88|
+Jun-26-2021 | Cloud Foundry Summit 2021                                   | ![Gold] | @germonprez @djmitche              |https://github.com/badging/event-diversity-and-inclusion/issues/86|
+Jun-03-2021 | LFN Developer & Testing Forums 2021                         | ![Gold] | @djmitche @mollydb                 |https://github.com/badging/event-diversity-and-inclusion/issues/84|
+May-12-2021 | DPDK Summit North America                                   | ![Gold] | @spotz @gemarodri                  |https://github.com/badging/event-diversity-and-inclusion/issues/85|
+Apr-24-2021 | API Specifications Conference (ASC) 2021                    | ![Gold] | @Dhruv-Sachdev1313 @germonprez     |https://github.com/badging/event-diversity-and-inclusion/issues/83|
 
 # Badges Granted: Version 1
-Date        | Event name                                       | Badge              |Version   |Application Issue link                                            |
-------------|--------------------------------------------------|--------------------|----------|------------------------------------------------------------------|
-Feb-16-2020 | Mock Event (The Beenz Meetup)                    | ![Passing]         | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/46|
-Dec-09-2020 | FOSS Backstage                                   | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/59|
-Jan-25-2021 | DPDK Summit APAC 2021                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/60|
-Feb-03-2021 | cdCon 2021                                       | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/61|
-Feb-18-2021 | PrestoCon Day 2021                               | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/62|
-Feb-23-2021 | Hyperledger Global Forum 2021                    | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/65|
-Feb-25-2021 | OpenJS World 2021                                | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/64|
-Mar-30-2021 | Berlin Buzzwords                                 | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/68|
-Apr-01-2021 | Cloud Native Security Day Europe 2021            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/75|
-Apr-03-2021 | Cloud Native WASM Day                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/76|
-Apr-03-2021 | Crossplane Community Day Europe                  | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/77|
-Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/72|
-Apr-07-2021 | Fluentcon                                        | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/78|
-Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/74|
-Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/80|
-Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/82|
-Apr-13-2021 | Kuberenetes AI Day                               | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/79|
-Apr-15-2021 | PromCon Online 2021                              | ![Gold]            | v1.0     |https://github.com/badging/event-diversity-and-inclusion/issues/81|
+Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
+------------|--------------------------------------------------|--------------------|-----------|------------------------------------------------------------------|
+Feb-16-2020 | Mock Event (The Beenz Meetup)                    | ![Passing]         | @germonprez @Ruth-ikegah             |https://github.com/badging/event-diversity-and-inclusion/issues/46|
+Dec-09-2020 | FOSS Backstage                                   | ![Gold]            | @Ruth-ikegah @tetris4                |https://github.com/badging/event-diversity-and-inclusion/issues/59|
+Jan-25-2021 | DPDK Summit APAC 2021                            | ![Gold]            | @Ruth-ikegah @djmitche               |https://github.com/badging/event-diversity-and-inclusion/issues/60|
+Feb-03-2021 | cdCon 2021                                       | ![Gold]            | @Anita-ihuman @tetris4               |https://github.com/badging/event-diversity-and-inclusion/issues/61|
+Feb-18-2021 | PrestoCon Day 2021                               | ![Gold]            | @Ruth-ikegah @tetris4                |https://github.com/badging/event-diversity-and-inclusion/issues/62|
+Feb-23-2021 | Hyperledger Global Forum 2021                    | ![Gold]            | @Anita-ihuman @Ruth-Ikegah           |https://github.com/badging/event-diversity-and-inclusion/issues/65|
+Feb-25-2021 | OpenJS World 2021                                | ![Gold]            | @Anita-ihuman @tetris4               |https://github.com/badging/event-diversity-and-inclusion/issues/64|
+Mar-30-2021 | Berlin Buzzwords                                 | ![Gold]            | @Gemarodri @germonprez               |https://github.com/badging/event-diversity-and-inclusion/issues/68|
+Apr-01-2021 | Cloud Native Security Day Europe 2021            | ![Gold]            | @Anita-ihuman @Gemarodri             |https://github.com/badging/event-diversity-and-inclusion/issues/75|
+Apr-03-2021 | Cloud Native WASM Day                            | ![Gold]            | @Gemarodri @djmitche                 |https://github.com/badging/event-diversity-and-inclusion/issues/76|
+Apr-03-2021 | Crossplane Community Day Europe                  | ![Gold]            | @Ruth-ikegah @germonprez             |https://github.com/badging/event-diversity-and-inclusion/issues/77|
+Apr-05-2021 | KubeCon+CloudNativeCon Europe 2021 Virtual       | ![Gold]            | @Dhruv-Sachdev1313 @mollydb          |https://github.com/badging/event-diversity-and-inclusion/issues/72|
+Apr-07-2021 | Fluentcon                                        | ![Gold]            | @Anita-ihuman @tetris4               |https://github.com/badging/event-diversity-and-inclusion/issues/78|
+Apr-08-2021 | Cloud Native Rust Day                            | ![Gold]            | @Ruth-ikegah @tetris4                |https://github.com/badging/event-diversity-and-inclusion/issues/74|
+Apr-12-2021 | Kubernetes on Edge Day                           | ![Gold]            | @Xiaoya-esther @spotz                |https://github.com/badging/event-diversity-and-inclusion/issues/80|
+Apr-12-2021 | ServiceMeshCon Europe                            | ![Gold]            | @spotz @ElizabethN                   |https://github.com/badging/event-diversity-and-inclusion/issues/82|
+Apr-13-2021 | Kuberenetes AI Day                               | ![Gold]            | @Dhruv-Sachdev1313 @ElizabethN       |https://github.com/badging/event-diversity-and-inclusion/issues/79|
+Apr-15-2021 | PromCon Online 2021                              | ![Gold]            | @Ruth-ikegah @tetris4                |https://github.com/badging/event-diversity-and-inclusion/issues/81|
 
 
 
