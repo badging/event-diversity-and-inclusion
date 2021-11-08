@@ -14,6 +14,7 @@ Please Note: All applications from now on will be considered using v3 metrics un
 # Badges Granted: Version 2
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-19-2021 | PrestoCon 2021                                              | ![Gold] | @Victorybrown @Gemarodri           |https://github.com/badging/event-diversity-and-inclusion/issues/126|
 Oct-19-2021 | Reactive Summit 2021                                        | ![Gold] | @Dhruv-Sachdev1313 @tetris4        |https://github.com/badging/event-diversity-and-inclusion/issues/124|
 Oct-14-2021 | Linux Foundation Member Summit 2021                         | ![Gold] | @Victorybrown @Ruth-ikegah         |https://github.com/badging/event-diversity-and-inclusion/issues/121|
 Oct-04-2021 | Kubernetes AI Day North America                             | ![Gold] | @klumb @ElizabethN                 |https://github.com/badging/event-diversity-and-inclusion/issues/114|
