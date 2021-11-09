@@ -38,4 +38,5 @@
 ### Diversity Access tickets
 - [ ] **Availability** - The event provides one or more Diversity Access Tickets.
 - [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets.
+- [ ] **Ticket Cost** - The Event provides at least one type of free diversity access ticket.
 - [ ] **Findability** - The information about Diversity Access Tickets is public.
