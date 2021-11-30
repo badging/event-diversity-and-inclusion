@@ -11,6 +11,11 @@ We have added new metrics to the review process and performed some much-needed u
 
 Please Note: All applications from now on will be considered using v3 metrics until the next release.
 
+# Badges Granted: Version 3
+Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
+------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Nov-30-2021 | KubeCon+CloudNativeCon+OpenSourceSummit China Virtual       | ![Gold] | @spotz @KafayahL                  |https://github.com/badging/event-diversity-and-inclusion/issues/128|
+
 # Badges Granted: Version 2
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
