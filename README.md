@@ -14,6 +14,7 @@ Please Note: All applications from now on will be considered using v3 metrics un
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Nov-30-2021 | Cephalocon 2022                                             | ![Gold] | @Dhruv-Sachdev1313 @tetris4       |https://github.com/badging/event-diversity-and-inclusion/issues/130|
 Nov-30-2021 | KubeCon+CloudNativeCon+OpenSourceSummit China Virtual       | ![Gold] | @spotz @KafayahL                  |https://github.com/badging/event-diversity-and-inclusion/issues/128|
 
 # Badges Granted: Version 2
