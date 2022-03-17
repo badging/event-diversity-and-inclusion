@@ -1,6 +1,6 @@
 # DEI Badging for Events
 
-To learn more about our project, please check out our [main repository](https://github.com/badging/diversity-and-inclusion).
+To learn more about our project, please check out the [CHAOSS Community Handbook](https://handbook.chaoss.community/community-handbook/badging/overview).
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
 
