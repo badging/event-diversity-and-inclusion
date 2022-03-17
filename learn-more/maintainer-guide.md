@@ -7,7 +7,7 @@ The maintainer is responsible for:
  - Issuing the badge and closing the submission issue
  - Addressing any process-related questions that arise
 
-## Process flow for the Moderator
+## Process flow for the Maintainer
 1. Applicant submits badge application.
 2. Maintainer manually welcomes the applicant and manually assigns reviewers to application issue.
 3. Reviewers provide reviews and feedback, maybe some deliberation (they should tell you when they finish their reviews but you may have to prompt)
