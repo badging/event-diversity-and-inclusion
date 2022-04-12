@@ -27,8 +27,9 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
-Apr-04-2022 | Open Source Summit NA 2022 | ![Gold] | @ElizabethN @anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/142 
-Mar-28-2022 | Hyperledger Global Forum 2022 | ![Gold] | @gemarodri @Dhruv-Sachdev1313 | https://github.com/badging/event-diversity-and-inclusion/issues/137 
+Apr-12-2022 | OpenInfra Summit                                            | ![Silver] | @djmitche @germonprez                |https://github.com/badging/event-diversity-and-inclusion/issues/139
+Apr-04-2022 | Open Source Summit NA 2022                                  | ![Gold] | @ElizabethN @anita-ihuman            |https://github.com/badging/event-diversity-and-inclusion/issues/142 
+Mar-28-2022 | Hyperledger Global Forum 2022                               | ![Gold] | @gemarodri @Dhruv-Sachdev1313      |https://github.com/badging/event-diversity-and-inclusion/issues/137 
 Mar-16-2022 | OpenJS World 2022                                           | ![Gold] | @germonprez @KafayahL             |https://github.com/badging/event-diversity-and-inclusion/issues/136
 Jan-31-2022 | cdCon 2022                                                  | ![Gold] | @Anita-ihuman @djmitche           |https://github.com/badging/event-diversity-and-inclusion/issues/131
 Nov-30-2021 | Cephalocon 2022                                             | ![Gold] | @Dhruv-Sachdev1313 @tetris4       |https://github.com/badging/event-diversity-and-inclusion/issues/130|
