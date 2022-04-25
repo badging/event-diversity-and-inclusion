@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Apr-25-2022 | PX4 Developer Summit 2022                                   | ![Gold] | @djmitche @gemarodri                                                |https://github.com/badging/event-diversity-and-inclusion/issues/148
 Apr-12-2022 | Linux Storage Filesystem / MM & BPF Summit                  | ![Gold] | @KafayahL @victorybrown                                            |https://github.com/badging/event-diversity-and-inclusion/issues/143
 Apr-12-2022 | OpenInfra Summit                                            | ![Silver] | @djmitche @germonprez                |https://github.com/badging/event-diversity-and-inclusion/issues/139
 Apr-04-2022 | Open Source Summit NA 2022                                  | ![Gold] | @ElizabethN @anita-ihuman            |https://github.com/badging/event-diversity-and-inclusion/issues/142 
