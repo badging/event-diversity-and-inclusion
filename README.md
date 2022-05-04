@@ -27,6 +27,10 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+May-04-2022 | GitOpsCon Europe                                            | ![Gold]  | @gemarodri @VictoryBrown                                          |https://github.com/badging/event-diversity-and-inclusion/issues/163
+May-04-2022 | Kubernetes on Edge Day Europe                               | ![Gold] | @kafayahL @ElizabethN                                              |https://github.com/badging/event-diversity-and-inclusion/issues/160
+May-04-2022 | Kubernetes AI Day Europe                                    | ![Gold] | @kafayahL @spotz                                                    |https://github.com/badging/event-diversity-and-inclusion/issues/157
+May-04-2022 | Cloud Native SecurityCon Europe 2022                        | ![Gold] | @Victorybrown @dhruv-sachdev1313                                    |https://github.com/badging/event-diversity-and-inclusion/issues/155
 May-04-2022 | Cloud Native Wasm Day Europe 2022                           | ![Gold] | @gemarodri @djmitche                                               |https://github.com/badging/event-diversity-and-inclusion/issues/154
 May-02-2022 | KubeCon+CloudNativeCon Europe 2022                          | ![Gold]   | @kafayahL @Anita-Ihuman                                          |https://github.com/badging/event-diversity-and-inclusion/issues/152
 Apr-26-2022 | Zephyr Developer Summit 2022                                | ![Silver] | @elizabethn @dhruv-sachdev                                        |https://github.com/badging/event-diversity-and-inclusion/issues/145  
