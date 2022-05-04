@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+May-04-2022 | FluentCon Europe                                            | ![Gold]  | @geekygirldawn @klumb                                              |https://github.com/badging/event-diversity-and-inclusion/issues/159
 May-04-2022 | GitOpsCon Europe                                            | ![Gold]  | @gemarodri @VictoryBrown                                          |https://github.com/badging/event-diversity-and-inclusion/issues/163
 May-04-2022 | Kubernetes on Edge Day Europe                               | ![Gold] | @kafayahL @ElizabethN                                              |https://github.com/badging/event-diversity-and-inclusion/issues/160
 May-04-2022 | Kubernetes AI Day Europe                                    | ![Gold] | @kafayahL @spotz                                                    |https://github.com/badging/event-diversity-and-inclusion/issues/157
