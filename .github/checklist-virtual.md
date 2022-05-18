@@ -4,7 +4,7 @@
 ## Initial checks
 
 - [ ] Event is about Open Source technologies and systems.
-- [ ] Event information is publicly available on a website.x
+- [ ] Event information is publicly available on a website.
 - [ ] The Event Code of Conduct is publicly available.
 - [ ] The applicant is the organizer of the event.
 
