@@ -27,10 +27,18 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+May-25-2022 | Berlin Buzzwords                                            | ![Gold]  | @kafayahL @anita-ihuman                                            |https://github.com/badging/event-diversity-and-inclusion/issues/170
+May-11-2022 | Cloud Native eBPF Day Europe                                | ![Gold]  | @xiaoya-esther @ruth-ikegah                                        |https://github.com/badging/event-diversity-and-inclusion/issues/158
+May-11-2022 | PrometheusDay Europe                                        | ![Gold]  | @kafayahL @ruth-ikegah                                            |https://github.com/badging/event-diversity-and-inclusion/issues/165
+May-11-2022 | ServiceMeshCon Europe                                       | ![Gold]  | @djmitche @tetris4                                                |https://github.com/badging/event-diversity-and-inclusion/issues/164
+May-11-2022 | GitOpsCon Europe                                            | ![Gold]  | @Gemarodri @victorybrown                                          |https://github.com/badging/event-diversity-and-inclusion/issues/163
+May-11-2022 | KnativeCon Europe                                           | ![Gold]  | @germonprez @dhruv-sachdev1313                                    |https://github.com/badging/event-diversity-and-inclusion/issues/162
+May-11-2022 | Kubernetes Batch + HPC Day Europe                           | ![Gold]  | @thecraftman @anita-ihuman                                        |https://github.com/badging/event-diversity-and-inclusion/issues/161
 May-04-2022 | FluentCon Europe                                            | ![Gold]  | @geekygirldawn @klumb                                              |https://github.com/badging/event-diversity-and-inclusion/issues/159
 May-04-2022 | GitOpsCon Europe                                            | ![Gold]  | @gemarodri @VictoryBrown                                          |https://github.com/badging/event-diversity-and-inclusion/issues/163
 May-04-2022 | Kubernetes on Edge Day Europe                               | ![Gold] | @kafayahL @ElizabethN                                              |https://github.com/badging/event-diversity-and-inclusion/issues/160
 May-04-2022 | Kubernetes AI Day Europe                                    | ![Gold] | @kafayahL @spotz                                                    |https://github.com/badging/event-diversity-and-inclusion/issues/157
+May-04-2022 | Cloud Native Telco Day Europe                               | ![Gold] | @elizabethn @germonprez                                            |https://github.com/badging/event-diversity-and-inclusion/issues/156
 May-04-2022 | Cloud Native SecurityCon Europe 2022                        | ![Gold] | @Victorybrown @dhruv-sachdev1313                                    |https://github.com/badging/event-diversity-and-inclusion/issues/155
 May-04-2022 | Cloud Native Wasm Day Europe 2022                           | ![Gold] | @gemarodri @djmitche                                               |https://github.com/badging/event-diversity-and-inclusion/issues/154
 May-02-2022 | KubeCon+CloudNativeCon Europe 2022                          | ![Gold]   | @kafayahL @Anita-Ihuman                                          |https://github.com/badging/event-diversity-and-inclusion/issues/152
