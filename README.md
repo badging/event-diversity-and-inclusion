@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Jul-01-2022 | PrestoCon Day 2022                                          | ![Gold]  | @kristiprogri @brownie                                            |https://github.com/badging/event-diversity-and-inclusion/issues/174
 May-25-2022 | Berlin Buzzwords                                            | ![Gold]  | @kafayahL @anita-ihuman                                            |https://github.com/badging/event-diversity-and-inclusion/issues/170
 May-11-2022 | Cloud Native eBPF Day Europe                                | ![Gold]  | @xiaoya-esther @ruth-ikegah                                        |https://github.com/badging/event-diversity-and-inclusion/issues/158
 May-11-2022 | PrometheusDay Europe                                        | ![Gold]  | @kafayahL @ruth-ikegah                                            |https://github.com/badging/event-diversity-and-inclusion/issues/165
