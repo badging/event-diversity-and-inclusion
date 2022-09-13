@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Sep-13-2022 | [Test event for the wonderful bot](https://chaoss.community/chaosscon-2022-eu/) | ![Pending] | @ElizabethN,@kaxada | https://github.com/badging/event-diversity-and-inclusion/issues/190 
 Sep-12-2022 | [CHAOSScon Europe 2022](https://chaoss.community/chaosscon-2022-eu/) | ![Gold] | @kaxada,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/188 
 Sep-11-2022 | [This is a test event for deployment checks](https://chaoss.community/chaosscon-2022-eu/) | ![Pending] |  | https://github.com/badging/event-diversity-and-inclusion/issues/189 
 Jul-01-2022 | PrestoCon Day 2022                                          | ![Gold]  | @kristiprogri @brownie                                            |https://github.com/badging/event-diversity-and-inclusion/issues/174
