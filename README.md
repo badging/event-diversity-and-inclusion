@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Sep-21-2022 | [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/) | ![Gold] | @kaxada,@Victorybrown | https://github.com/badging/event-diversity-and-inclusion/issues/183 
 Sep-21-2022 | [O3DCon 2022](https://events.linuxfoundation.org/o3dcon/) | ![Gold] | @Gemarodri,@Dhruv-Sachdev1313 | https://github.com/badging/event-diversity-and-inclusion/issues/184 
 Sep-21-2022 | [Spinnaker Summit](https://events.linuxfoundation.org/spinnaker-summit/) | ![Gold] | @KafayahL,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/187 
 Sep-13-2022 | [Test event for the wonderful bot](https://chaoss.community/chaosscon-2022-eu/) | ![Pending] | @ElizabethN,@kaxada | https://github.com/badging/event-diversity-and-inclusion/issues/190 
