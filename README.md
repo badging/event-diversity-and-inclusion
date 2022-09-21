@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Sep-21-2022 | [Open Mainframe Summit 2022](https://events.linuxfoundation.org/open-mainframe-summit/) | ![Gold] | @Anita-ihuman,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/178 
 Sep-21-2022 | [API Specifications Conference (ASC) 2022](https://events.linuxfoundation.org/openapi-asc/) | ![Gold] | @KafayahL,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/179 
 Sep-21-2022 | [Open Source Summit Latin America 2022](https://events.linuxfoundation.org/open-source-summit-latin-america/) | ![Gold] | @tetris4,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/181 
 Sep-21-2022 | [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/) | ![Gold] | @kaxada,@Victorybrown | https://github.com/badging/event-diversity-and-inclusion/issues/183 
