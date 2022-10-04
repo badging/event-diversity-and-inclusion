@@ -28,15 +28,15 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
 Oct-04-2022 | [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/   ) | ![Gold] | @tetris4,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/196 
-Jul-11-2022 | [DPDK Userspace Summit](https://events.linuxfoundation.org/dpdk-userspace-summit/) | ![Silver] | @oma131,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/176 
-Jul-11-2022 | [Open Source Summit Europe 2022](https://events.linuxfoundation.org/open-source-summit-europe/) | ![Gold] | @kristiprogri,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/177 
-Aug-04-2022 | [Open Mainframe Summit 2022](https://events.linuxfoundation.org/open-mainframe-summit/) | ![Gold] | @Anita-ihuman,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/178 
-Jul-21-2022 | [API Specifications Conference (ASC) 2022](https://events.linuxfoundation.org/openapi-asc/) | ![Gold] | @KafayahL,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/179 
-Aug-11-2022 | [Open Source Summit Latin America 2022](https://events.linuxfoundation.org/open-source-summit-latin-america/) | ![Gold] | @tetris4,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/181 
+Sep-12-2022 | [CHAOSScon Europe 2022](https://chaoss.community/chaosscon-2022-eu/) | ![Gold] | @kaxada,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/188 
+Sep-01-2022 | [Spinnaker Summit](https://events.linuxfoundation.org/spinnaker-summit/) | ![Gold] | @KafayahL,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/187 
 Aug-23-2022 | [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/) | ![Gold] | @kaxada,@Victorybrown | https://github.com/badging/event-diversity-and-inclusion/issues/183 
 Aug-23-2022 | [O3DCon 2022](https://events.linuxfoundation.org/o3dcon/) | ![Gold] | @Gemarodri,@Dhruv-Sachdev1313 | https://github.com/badging/event-diversity-and-inclusion/issues/184 
-Sep-01-2022 | [Spinnaker Summit](https://events.linuxfoundation.org/spinnaker-summit/) | ![Gold] | @KafayahL,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/187 
-Sep-12-2022 | [CHAOSScon Europe 2022](https://chaoss.community/chaosscon-2022-eu/) | ![Gold] | @kaxada,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/188 
+Aug-11-2022 | [Open Source Summit Latin America 2022](https://events.linuxfoundation.org/open-source-summit-latin-america/) | ![Gold] | @tetris4,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/181 
+Aug-04-2022 | [Open Mainframe Summit 2022](https://events.linuxfoundation.org/open-mainframe-summit/) | ![Gold] | @Anita-ihuman,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/178 
+Jul-21-2022 | [API Specifications Conference (ASC) 2022](https://events.linuxfoundation.org/openapi-asc/) | ![Gold] | @KafayahL,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/179 
+Jul-11-2022 | [DPDK Userspace Summit](https://events.linuxfoundation.org/dpdk-userspace-summit/) | ![Silver] | @oma131,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/176 
+Jul-11-2022 | [Open Source Summit Europe 2022](https://events.linuxfoundation.org/open-source-summit-europe/) | ![Gold] | @kristiprogri,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/177 
 Jul-01-2022 | PrestoCon Day 2022                                          | ![Gold]  | @kristiprogri @brownie                                            |https://github.com/badging/event-diversity-and-inclusion/issues/174
 May-25-2022 | Berlin Buzzwords                                            | ![Gold]  | @kafayahL @anita-ihuman                                            |https://github.com/badging/event-diversity-and-inclusion/issues/170
 May-11-2022 | Cloud Native eBPF Day Europe                                | ![Gold]  | @xiaoya-esther @ruth-ikegah                                        |https://github.com/badging/event-diversity-and-inclusion/issues/158
