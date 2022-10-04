@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-04-2022 | [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/   ) | ![Gold] | @tetris4,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/196 
 Jul-11-2022 | [DPDK Userspace Summit](https://events.linuxfoundation.org/dpdk-userspace-summit/) | ![Silver] | @oma131,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/176 
 Jul-11-2022 | [Open Source Summit Europe 2022](https://events.linuxfoundation.org/open-source-summit-europe/) | ![Gold] | @kristiprogri,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/177 
 Aug-04-2022 | [Open Mainframe Summit 2022](https://events.linuxfoundation.org/open-mainframe-summit/) | ![Gold] | @Anita-ihuman,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/178 
