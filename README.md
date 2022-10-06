@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-06-2022 | [PrestoCon 2022](https://events.linuxfoundation.org/prestocon/) | ![Silver] | @djmitche,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/192 
 Oct-04-2022 | [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/   ) | ![Gold] | @tetris4,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/196 
 Sep-12-2022 | [CHAOSScon Europe 2022](https://chaoss.community/chaosscon-2022-eu/) | ![Gold] | @kaxada,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/188 
 Sep-01-2022 | [Spinnaker Summit](https://events.linuxfoundation.org/spinnaker-summit/) | ![Gold] | @KafayahL,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/187 
