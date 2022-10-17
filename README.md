@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-17-2022 | [Phony badge application for GSOC 2022 badging bot microtask by Ayush Tamra](https://github.com/badging/event-diversity-and-inclusion/issues/134) | ![pending] |  | https://github.com/badging/event-diversity-and-inclusion/issues/135 
 Oct-13-2022 | [Reactive Summit 2022](https://events.linuxfoundation.org/reactive-summit/ ) | ![Gold] | @KafayahL,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/198 
 Oct-13-2022 | [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) | ![Gold] | @Victorybrown,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/195 
 Oct-06-2022 | [PrestoCon 2022](https://events.linuxfoundation.org/prestocon/) | ![Silver] | @djmitche,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/192 
