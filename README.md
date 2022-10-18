@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-18-2022 | [KubeCon+CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | ![Gold] | @germonprez,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/199 
 Oct-18-2022 | [Cloud Native SecurityCon North America 2022](https://events.linuxfoundation.org/cloud-native-securitycon-north-america/) | ![Gold] | @germonprez,@spotz | https://github.com/badging/event-diversity-and-inclusion/issues/200 
 Oct-13-2022 | [Reactive Summit 2022](https://events.linuxfoundation.org/reactive-summit/ ) | ![Gold] | @KafayahL,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/198 
 Oct-13-2022 | [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) | ![Gold] | @Victorybrown,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/195 
