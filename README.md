@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-20-2022 | [Open Observability Day North America](https://events.linuxfoundation.org/open-observability-day-north-america/) | ![Gold] | @tetris4,@spotz | https://github.com/badging/event-diversity-and-inclusion/issues/204 
 Oct-20-2022 | [GitOpsCon North America](https://events.linuxfoundation.org/gitopscon-north-america/) | ![Gold] | @germonprez,@xiaoya-yaya | https://github.com/badging/event-diversity-and-inclusion/issues/201 
 Oct-18-2022 | [Cloud Native Wasm Day North America](https://events.linuxfoundation.org/cloud-native-wasm-day-north-america/) | ![Gold] | @Dhruv-Sachdev1313,@oma131 | https://github.com/badging/event-diversity-and-inclusion/issues/202 
 Oct-18-2022 | [KubeCon+CloudNativeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | ![Gold] | @germonprez,@kristiprogri | https://github.com/badging/event-diversity-and-inclusion/issues/199 
