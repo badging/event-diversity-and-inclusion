@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Oct-26-2022 | [BackstageCon North America](https://events.linuxfoundation.org/backstagecon-north-america/) | ![Gold] | @kristiprogri,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/203 
 Oct-24-2022 | [FOSS Backstage 2023](https://23.foss-backstage.de) | ![Gold] | @KafayahL,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/206 
 Oct-20-2022 | [Open Observability Day North America](https://events.linuxfoundation.org/open-observability-day-north-america/) | ![Gold] | @tetris4,@spotz | https://github.com/badging/event-diversity-and-inclusion/issues/204 
 Oct-20-2022 | [GitOpsCon North America](https://events.linuxfoundation.org/gitopscon-north-america/) | ![Gold] | @germonprez,@xiaoya-yaya | https://github.com/badging/event-diversity-and-inclusion/issues/201 
