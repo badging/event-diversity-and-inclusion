@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Nov-15-2022 | [RISC-V Summit North America 2022](https://events.linuxfoundation.org/riscv-summit/) | ![Gold] |  [@J-ell](https://github.com/J-ell), [@Joynels-Ogbogu](https://github.com/Joynels-Ogbogu) | https://github.com/badging/event-diversity-and-inclusion/issues/211 
 Nov-03-2022 | [Open Source in Finance Forum New York 2022](https://events.linuxfoundation.org/open-source-finance-forum-new-york/ ) | ![Gold] | @Ruth-ikegah,@Anita-ihuman | https://github.com/badging/event-diversity-and-inclusion/issues/210 
 Nov-02-2022 | [SODACON 2022](https://events.linuxfoundation.org/sodacon-japan/) | ![Silver] | @djmitche,@Victorybrown | https://github.com/badging/event-diversity-and-inclusion/issues/205 
 Oct-26-2022 | [BackstageCon North America](https://events.linuxfoundation.org/backstagecon-north-america/) | ![Gold] | @kristiprogri,@Delight362 | https://github.com/badging/event-diversity-and-inclusion/issues/203 
