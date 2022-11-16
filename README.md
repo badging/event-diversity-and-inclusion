@@ -2,7 +2,7 @@
 
 To learn more about our project, please check out the [CHAOSS Community Handbook](https://handbook.chaoss.community/community-handbook/badging/overview).
 
-Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/info for applicants/guidelines.md) before applying for an Event badge.
+Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/info-for-applicants/guidelines.md) before applying for an Event badge.
 
 ## Event Badging 3.0 is Released! 
 We are happy to announce that we have released the largest update so far!
