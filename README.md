@@ -2,7 +2,7 @@
 
 To learn more about our project, please check out the [CHAOSS Community Handbook](https://handbook.chaoss.community/community-handbook/badging/overview).
 
-Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) before applying for an Event badge.
+Please review the Diversity and Inclusion [Event Submission Guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/info for applicants/guidelines.md) before applying for an Event badge.
 
 ## Event Badging 3.0 is Released! 
 We are happy to announce that we have released the largest update so far!
@@ -159,8 +159,4 @@ THINGS TO KEEP IN MIND:
 
 [Passing]: https://img.shields.io/badge/D%26I-Passing-passing?style=flat-square&labelColor=583586&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1MCAyNTAiPgo8cGF0aCBmaWxsPSIjMUM5QkQ2IiBkPSJNOTcuMSw0OS4zYzE4LTYuNywzNy44LTYuOCw1NS45LTAuMmwxNy41LTMwLjJjLTI5LTEyLjMtNjEuOC0xMi4yLTkwLjgsMC4zTDk3LjEsNDkuM3oiLz4KPHBhdGggZmlsbD0iIzZBQzdCOSIgZD0iTTE5NC42LDMyLjhMMTc3LjIsNjNjMTQuOCwxMi4zLDI0LjcsMjkuNSwyNy45LDQ4LjVoMzQuOUMyMzYuMiw4MC4yLDIxOS45LDUxLjcsMTk0LjYsMzIuOHoiLz4KPHBhdGggZmlsbD0iI0JGOUNDOSIgZD0iTTIwNC45LDEzOS40Yy03LjksNDMuOS00OS45LDczLTkzLjgsNjUuMWMtMTMuOC0yLjUtMjYuOC04LjYtMzcuNS0xNy42bC0yNi44LDIyLjQKCWM0Ni42LDQzLjQsMTE5LjUsNDAuOSwxNjIuOS01LjdjMTYuNS0xNy43LDI3LTQwLjIsMzAuMS02NC4ySDIwNC45eiIvPgo8cGF0aCBmaWxsPSIjRDYxRDVGIiBkPSJNNTUuNiwxNjUuNkMzNS45LDEzMS44LDQzLjMsODguOCw3My4xLDYzLjVMNTUuNywzMy4yQzcuNSw2OS44LTQuMiwxMzcuNCwyOC44LDE4OEw1NS42LDE2NS42eiIvPgo8L3N2Zz4K
 
-[README]: https://github.com/badging/diversity-and-inclusion/blob/master/README.md#applying-for-badges
 
-[APPLY]: https://github.com/badging/event-diversity-and-inclusion/edit/master/README.md
-
-[Event Submission Guidelines]: ./submission/guidelines.md
