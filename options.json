@@ -11,7 +11,11 @@
     "order": [
       "Introduction.md",
       "History-of-DEI-Badging-Initiative.md",
-      "What-is-DEI-Badging.md"
+      "What-is-DEI-Badging.md",
+      "Why-DEI-Badging.md",
+      "Goals-of-DEI-Badging.md",
+      "Structure-of-DEI-Badging-Initiative.md",
+      "DEI-Event-Badging.md"
     ]
   },
   "separator": "_",

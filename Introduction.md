@@ -1,1 +1,2 @@
+# Introduction
 We care about community health at CHAOSS, and we are strong believers in the benefits of diversity, equity, and inclusion in open source communities. In order to help Open source projects and events create a more diverse and inclusive experience for their communities, the Diversity, Equity and Inclusion (DEI)working group established The Diversity, Equity and Inclusion (DEI) Badging initiative.
