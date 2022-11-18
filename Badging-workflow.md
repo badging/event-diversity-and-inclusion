@@ -21,8 +21,3 @@ The table below shows the badging levels, the badges, and the percentage of requ
 | Passing | ![DEI passing badge](passing.svg) | Greater than or equal to 40% and less than 60% |
 | Silver | ![DEI silver badge](silver.svg) | Greater than or equal to 60% and less than 80% |
 | Gold | ![DEI gold badge](gold.svg) | Greater than 80% |
-
-## Conclusion
-The DEI Badging Initiative was created to encourage a more diverse and inclusive environment in the open source ecosystem. Implementation of these badges helps create a safe space for participants of an open source event or contributors to an open source project.
-
-*_Appreciation:_* _Thanks to Ihuoma Anosike for creating this WiKi Document_
