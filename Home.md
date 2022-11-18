@@ -1,1 +1,1 @@
-Welcome to the event-diversity-and-inclusion wiki!
+Welcome to the event diversity and inclusion wiki!🎊🎉
