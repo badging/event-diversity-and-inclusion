@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "item": "{{#levelRepeat}}  {{/levelRepeat}}* [{{{title}}}]({{{link}}})\n",
+    "category": "{{#levelRepeat}}  {{/levelRepeat}}* {{#link}}[{{{title}}}]({{{link}}}){{/link}}{{^link}}{{{title}}}{{/link}}\n{{{subitems}}}",
+    "category-1": "{{{subitems}}}\n"
+  },
+  "rules": {
+    "exclude": [
+      "Home.md"
+    ],
+    "order": [
+      "Introduction.md",
+      "History-of-DEI-Badging-Initiative.md",
+      "What-is-DEI-Badging.md"
+    ]
+  },
+  "separator": "_",
+  "linkTemplate": "./%s",
+  "menuFile": "_Sidebar.md",
+  "multilang": false,
+  "menuOnly": true
+}
