@@ -14,4 +14,4 @@ The maintainer is responsible for:
 4. Tell the applicant you will generate a badge, thank everyone involved, mention that they will need to state whether they accept the badge
 5. Generate a preliminary badge by posting “/result”
 6. Once applicant states they accept the badge thank them again, make a separate comment with /end and close the PR
-7. Manually add the badge information to the version 3 list in the README.md
+7. The badge information will be automatically added to the README.md as a new badge recipient.
