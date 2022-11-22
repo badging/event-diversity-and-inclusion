@@ -32,9 +32,9 @@
 - [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
 
 ### Diversity Access tickets
-- [ ] **Availability** - The event provides one or more Diversity Access Tickets.
-- [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets.
-- [ ] **Findability** - The information about Diversity Access Tickets is public.
+- [ ] **Availability** - The event provides one or more Diversity Access Tickets, or it is a free event.
+- [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets, or it is a free event.
+- [ ] **Findability** - The information about Diversity Access Tickets (or that it is a free event) is public.
 
 ### Family Friendliness
 - [ ] **Availability** - The Event provides one or more services/facilities for families.
