@@ -1,0 +1,2 @@
+# Why-DEI-Badging?
+The DEI Badging initiative aims at encouraging best practices of diversity and inclusion of people from various backgrounds in an open source project or event. The DEI badges help nurture a system that promotes leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.

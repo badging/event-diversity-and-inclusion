@@ -1,0 +1,2 @@
+# Conclusion
+The DEI Badging Initiative was created to encourage a more diverse and inclusive environment in the open source ecosystem. Implementation of these badges helps create a safe space for participants of an open source event or contributors to an open source project.
