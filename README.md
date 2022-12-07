@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Dec-07-2022 | [KubeDay Japan 2023](https://events.linuxfoundation.org/kubeday-japan/) | ![Gold] |  [@kristiprogri](https://github.com/kristiprogri), [@Ruth-ikegah](https://github.com/Ruth-ikegah) | https://github.com/badging/event-diversity-and-inclusion/issues/214 
 Dec-05-2022 | [CloudNativeSecurityCon](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) | ![Gold] |  [@tetris4](https://github.com/tetris4), [@oma131](https://github.com/oma131) | https://github.com/badging/event-diversity-and-inclusion/issues/219 
 Nov-24-2022 | [Create Wiki Page for Event Badging](undefined) | ![pending] |  [@activus-d](https://github.com/activus-d) | https://github.com/badging/event-diversity-and-inclusion/issues/215 
 Nov-15-2022 | [RISC-V Summit North America 2022](https://events.linuxfoundation.org/riscv-summit/) | ![Gold] |  [@J-ell](https://github.com/J-ell), [@Joynels-Ogbogu](https://github.com/Joynels-Ogbogu) | https://github.com/badging/event-diversity-and-inclusion/issues/211 
