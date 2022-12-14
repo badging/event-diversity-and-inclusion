@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Dec-14-2022 | [Berlin Buzzwords 2023](https://2023.berlinbuzzwords.de) | ![Gold] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@Nene-S](https://github.com/Nene-S) | https://github.com/badging/event-diversity-and-inclusion/issues/220 
 Dec-07-2022 | [KubeDay Japan 2023](https://events.linuxfoundation.org/kubeday-japan/) | ![Gold] |  [@kristiprogri](https://github.com/kristiprogri), [@Ruth-ikegah](https://github.com/Ruth-ikegah) | https://github.com/badging/event-diversity-and-inclusion/issues/214 
 Dec-05-2022 | [CloudNativeSecurityCon](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) | ![Gold] |  [@tetris4](https://github.com/tetris4), [@oma131](https://github.com/oma131) | https://github.com/badging/event-diversity-and-inclusion/issues/219 
 Nov-24-2022 | [Create Wiki Page for Event Badging](undefined) | ![pending] |  [@activus-d](https://github.com/activus-d) | https://github.com/badging/event-diversity-and-inclusion/issues/215 
