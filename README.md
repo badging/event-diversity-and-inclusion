@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Feb-25-2023 | [Cephalocon 2023](https://events.linuxfoundation.org/cephalocon/) | ![Gold] |  [@tetris4](https://github.com/tetris4), [@kristiprogri](https://github.com/kristiprogri) | https://github.com/badging/event-diversity-and-inclusion/issues/228 
 Feb-21-2023 | [Cassandra Summit ](https://events.linuxfoundation.org/cassandra-summit/) | ![Gold] |  [@Dhruv-Sachdev1313](https://github.com/Dhruv-Sachdev1313), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/225 
 Feb-21-2023 | [The Linux Foundation Legal Summit](undefined) | ![Silver] |  [@oma131](https://github.com/oma131), [@Delight362](https://github.com/Delight362) | https://github.com/badging/event-diversity-and-inclusion/issues/224 
 Jan-27-2023 | [Automotive Grade Linux All Member Meeting Spring 2023](https://events.linuxfoundation.org/agl-amm/) | ![Gold] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@LamiWilliams](https://github.com/LamiWilliams) | https://github.com/badging/event-diversity-and-inclusion/issues/216 
