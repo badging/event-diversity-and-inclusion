@@ -39,3 +39,14 @@
 ### Family Friendliness
 - [ ] **Availability** - The Event provides one or more services/facilities for families.
 - [ ] **Findability** - The information about the family friendly services provided at the Event is easy to find on the website.
+
+### Event Accessibility
+- [ ] **Basic Accessibility Accommodations Provided** - The Event occurs in a wheelchair accessible venue.
+- [ ] **Accessibility Accommodations Provided** - The Event provides more than the basic accommodations, or will provide upon request. There is a method for requesting accommodations before, during, or after registration.
+- [ ] **Findability** - The Event communicates the accessibility accommodations provided on the Event website.
+
+### Event Location Inclusivity
+- [ ] **Inclusive Location** - The Event does not occur in a region that may be problematic for some attendees, or if it does, the Event acknowledges this and communicates it to attendees on the Event website or through other event communications.
+
+### Public Health and Safety
+- [ ] **PHPledge Badge** - The Event has gone through the Public Health Pledge Badging process.
