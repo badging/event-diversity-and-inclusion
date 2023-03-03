@@ -39,3 +39,7 @@
 - [ ] **Availability** - The event provides one or more Diversity Access Tickets.
 - [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets.
 - [ ] **Findability** - The information about Diversity Access Tickets is public.
+
+### Event Accessibility
+- [ ] **Basic Accessibility Accommodations Provided** - The Event provides a form of closed captioning for virtual talks.
+- [ ] **Accessibility Accommodations Provided** - The Event provides more than the basic accommodations, or will provide upon request. There is a method for requesting accommodations before, during, or after registration.
