@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Mar-14-2023 | [Open Source Summit North America](undefined) | ![Gold] |  [@Ruth-ikegah](https://github.com/Ruth-ikegah), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/230 
 Mar-12-2023 | [OpenSSF Day North America 2022](https://events.linuxfoundation.org/openssf-day-north-america/) | ![Gold] |  [@djmitche](https://github.com/djmitche), [@Delight362](https://github.com/Delight362) | https://github.com/badging/event-diversity-and-inclusion/issues/229 
 Mar-09-2023 | [Embedded Open Source Summit](undefined) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@oma131](https://github.com/oma131) | https://github.com/badging/event-diversity-and-inclusion/issues/233 
 Feb-25-2023 | [Cephalocon 2023](https://events.linuxfoundation.org/cephalocon/) | ![Gold] |  [@tetris4](https://github.com/tetris4), [@kristiprogri](https://github.com/kristiprogri) | https://github.com/badging/event-diversity-and-inclusion/issues/228 
