@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Mar-15-2023 | [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | ![Gold] |  [@germonprez](https://github.com/germonprez), [@Victorybrown](https://github.com/Victorybrown) | https://github.com/badging/event-diversity-and-inclusion/issues/235 
 Mar-14-2023 | [Open Source Summit North America](undefined) | ![Gold] |  [@Ruth-ikegah](https://github.com/Ruth-ikegah), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/230 
 Mar-12-2023 | [OpenSSF Day North America 2022](https://events.linuxfoundation.org/openssf-day-north-america/) | ![Gold] |  [@djmitche](https://github.com/djmitche), [@Delight362](https://github.com/Delight362) | https://github.com/badging/event-diversity-and-inclusion/issues/229 
 Mar-09-2023 | [Embedded Open Source Summit](undefined) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@oma131](https://github.com/oma131) | https://github.com/badging/event-diversity-and-inclusion/issues/233 
