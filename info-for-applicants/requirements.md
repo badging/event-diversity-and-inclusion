@@ -3,9 +3,9 @@
 
 ## Event status related requirements
 
-- The event must be about Open Source technologies and practices.
+- The event must be about open source technologies and practices.
 
-- You should be an organizer of an Event you are applying for.
+- You should be an organizer of an event you are applying for.
 
 ## Metric related requirements
 
