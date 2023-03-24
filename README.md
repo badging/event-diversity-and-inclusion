@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Mar-24-2023 | [cdCon + GitOpsCon 2023](https://events.linuxfoundation.org/cdcon-gitopscon/) | ![Gold] |  [@LamiWilliams](https://github.com/LamiWilliams), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/238 
 Mar-24-2023 | [Linux Storage, Filesystem, Memory Management & BPF Summit 2023](undefined) | ![Gold] |  [@Ruth-ikegah](https://github.com/Ruth-ikegah), [@Nene-S](https://github.com/Nene-S) | https://github.com/badging/event-diversity-and-inclusion/issues/237 
 Mar-24-2023 | [Linux Security Summit North America](undefined) | ![Gold] |  [@germonprez](https://github.com/germonprez), [@kristiprogri](https://github.com/kristiprogri), [@Dhruv-Sachdev1313](https://github.com/Dhruv-Sachdev1313) | https://github.com/badging/event-diversity-and-inclusion/issues/234 
 Mar-15-2023 | [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | ![Gold] |  [@germonprez](https://github.com/germonprez), [@Victorybrown](https://github.com/Victorybrown) | https://github.com/badging/event-diversity-and-inclusion/issues/235 
