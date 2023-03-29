@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Mar-29-2023 | [OpenInfra Summit Vancouver ](https://openinfra.dev/summit/vancouver-2023/) | ![Gold] |  [@LamiWilliams](https://github.com/LamiWilliams), [@Joynels-Ogbogu](https://github.com/Joynels-Ogbogu) | https://github.com/badging/event-diversity-and-inclusion/issues/232 
 Mar-27-2023 | [Xen Project Developer & Design Summit](https://events.linuxfoundation.org/xen-project-summit/) | ![Silver] |  [@klumb](https://github.com/klumb), [@Ruth-ikegah](https://github.com/Ruth-ikegah) | https://github.com/badging/event-diversity-and-inclusion/issues/236 
 Mar-24-2023 | [cdCon + GitOpsCon 2023](https://events.linuxfoundation.org/cdcon-gitopscon/) | ![Gold] |  [@LamiWilliams](https://github.com/LamiWilliams), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/238 
 Mar-24-2023 | [Linux Storage, Filesystem, Memory Management & BPF Summit 2023](undefined) | ![Gold] |  [@Ruth-ikegah](https://github.com/Ruth-ikegah), [@Nene-S](https://github.com/Nene-S) | https://github.com/badging/event-diversity-and-inclusion/issues/237 
