@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+May-22-2023 | [PX4 Developer Summit 2023](https://events.linuxfoundation.org/px4-developer-summit/) | ![Gold] |  [@kristiprogri](https://github.com/kristiprogri), [@oma131](https://github.com/oma131) | https://github.com/badging/event-diversity-and-inclusion/issues/248 
 May-22-2023 | [Cloud Foundry Day 2023](https://events.linuxfoundation.org/cloud-foundry-day/) | ![Silver] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/247 
 May-22-2023 | [Cloud Foundry Day 2023](https://events.linuxfoundation.org/cloud-foundry-day/) | ![Silver] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/247 
 Apr-27-2023 | [R/Medicine 2023](https://events.linuxfoundation.org/r-medicine/) | ![Gold] |  [@LamiWilliams](https://github.com/LamiWilliams), [@Delight362](https://github.com/Delight362) | https://github.com/badging/event-diversity-and-inclusion/issues/246 
