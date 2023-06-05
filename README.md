@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Jun-05-2023 | [Awesome Conf 2023](awesomeconf.com) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN) | https://github.com/badging/event-diversity-and-inclusion/issues/254 
 Jun-05-2023 | [PyTorch Conference 2023](https://events.linuxfoundation.org/pytorch-conference/) | ![Gold] |  [@tetris4](https://github.com/tetris4), [@KafayahL](https://github.com/KafayahL) | https://github.com/badging/event-diversity-and-inclusion/issues/251 
 Jun-01-2023 | [CHAOSSCon Africa](undefined) | ![pending] |  | https://github.com/badging/event-diversity-and-inclusion/issues/252 
 May-24-2023 | [Open Source Congress](https://events.linuxfoundation.org/open-source-congress/) | ![Silver] |  [@Dhruv-Sachdev1313](https://github.com/Dhruv-Sachdev1313), [@Joynels-Ogbogu](https://github.com/Joynels-Ogbogu) | https://github.com/badging/event-diversity-and-inclusion/issues/249 
