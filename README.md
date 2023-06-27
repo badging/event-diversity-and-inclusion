@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Jun-27-2023 | [Open Source in Finance Forum 2023](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) | ![Silver] |  [@kaxada](https://github.com/kaxada), [@Delight362](https://github.com/Delight362) | https://github.com/badging/event-diversity-and-inclusion/issues/257 
 Jun-27-2023 | [seL4 Summit 2023](https://events.linuxfoundation.org/sel4-summit/) | ![Silver] |  [@djmitche](https://github.com/djmitche), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/250 
 Jun-13-2023 | [GraphQLConf](https://graphql.org/conf/) | ![Gold] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@Busayo-ojo](https://github.com/Busayo-ojo) | https://github.com/badging/event-diversity-and-inclusion/issues/255 
 Jun-13-2023 | [CHAOSSCon Africa 2023](https://chaoss.community/chaosscon-2023-africa/) | ![Gold] |  [@spotz](https://github.com/spotz), [@klumb](https://github.com/klumb) | https://github.com/badging/event-diversity-and-inclusion/issues/253 
