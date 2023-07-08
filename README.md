@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Jul-08-2023 | [Linux Security Summit Europe 2023](undefined) | ![Gold] |  [@KafayahL](https://github.com/KafayahL), [@Victorybrown](https://github.com/Victorybrown) | https://github.com/badging/event-diversity-and-inclusion/issues/261 
 Jul-08-2023 | [GUADEC ](https://events.gnome.org/event/101/) | ![Gold] |  [@djmitche](https://github.com/djmitche), [@Ruth-ikegah](https://github.com/Ruth-ikegah) | https://github.com/badging/event-diversity-and-inclusion/issues/256 
 Jun-27-2023 | [WasmCon 2023](undefined) | ![Gold] |  [@oma131](https://github.com/oma131), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/260 
 Jun-27-2023 | [The Linux Europe Member Summit 2023](undefined) | ![Silver] |  [@kristiprogri](https://github.com/kristiprogri), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/262 
