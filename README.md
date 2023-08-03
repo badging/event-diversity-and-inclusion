@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Aug-03-2023 | [Open Source Summit Europe 2023](undefined) | ![Gold] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/269 
 Aug-02-2023 | [Open Source Summit Europe 2023](undefined) | ![pending] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/269 
 Jul-24-2023 | [Open Source Summit Japan 2023](undefined) | ![Gold] |  [@Omokiti](https://github.com/Omokiti), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/270 
 Jul-24-2023 | [RISC-V Summit 2023](https://events.linuxfoundation.org/riscv-summit/) | ![Gold] |  [@Busayo-ojo](https://github.com/Busayo-ojo), [@the-techgurl](https://github.com/the-techgurl) | https://github.com/badging/event-diversity-and-inclusion/issues/268 
