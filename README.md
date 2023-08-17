@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Aug-17-2023 | [PrestoCon 2023](https://events.linuxfoundation.org/prestocon/) | ![Gold] |  [@Enecode](https://github.com/Enecode), [@Abenacodes](https://github.com/Abenacodes) | https://github.com/badging/event-diversity-and-inclusion/issues/274 
 Aug-17-2023 | [ElizabethCon](elizabethcon.com) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@Ruth-ikegah](https://github.com/Ruth-ikegah) | https://github.com/badging/event-diversity-and-inclusion/issues/275 
 Aug-17-2023 | [Open Compliance Summit 2023](https://events.linuxfoundation.org/open-compliance-summit/ ) | ![Gold] |  [@oma131](https://github.com/oma131), [@Joynels-Ogbogu](https://github.com/Joynels-Ogbogu) | https://github.com/badging/event-diversity-and-inclusion/issues/271 
 Aug-17-2023 | [OpenSSF Day EU 2023]() | ![Silver] |  [@tetris4](https://github.com/tetris4), [@Busayo-ojo](https://github.com/Busayo-ojo) | https://github.com/badging/event-diversity-and-inclusion/issues/263 
