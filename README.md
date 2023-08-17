@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Aug-17-2023 | [ElizabethCon](elizabethcon.com) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@Ruth-ikegah](https://github.com/Ruth-ikegah) | https://github.com/badging/event-diversity-and-inclusion/issues/275 
 Aug-17-2023 | [Open Compliance Summit 2023](https://events.linuxfoundation.org/open-compliance-summit/ ) | ![Gold] |  [@oma131](https://github.com/oma131), [@Joynels-Ogbogu](https://github.com/Joynels-Ogbogu) | https://github.com/badging/event-diversity-and-inclusion/issues/271 
 Aug-17-2023 | [OpenSSF Day EU 2023]() | ![Silver] |  [@tetris4](https://github.com/tetris4), [@Busayo-ojo](https://github.com/Busayo-ojo) | https://github.com/badging/event-diversity-and-inclusion/issues/263 
 Aug-09-2023 | [FOSS Security Campus 2023]([foss-security-campus.de](https://foss-security-campus.de)) | ![Gold] |  [@daluclemas](https://github.com/daluclemas), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/273 
