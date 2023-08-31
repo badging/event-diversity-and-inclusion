@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Aug-31-2023 | [PeculiarTestCon](peculiartestcon.org) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@peculiaruc](https://github.com/peculiaruc) | https://github.com/badging/event-diversity-and-inclusion/issues/279 
 Aug-19-2023 | [gRPC Conf 2023](https://events.linuxfoundation.org/grpc-conf/) | ![Gold] |  [@Ijeoma-Onwuka](https://github.com/Ijeoma-Onwuka), [@FeazUI](https://github.com/FeazUI) | https://github.com/badging/event-diversity-and-inclusion/issues/276 
 Aug-19-2023 | [gRPC Conf 2023](https://events.linuxfoundation.org/grpc-conf/) | ![Gold] |  [@Ijeoma-Onwuka](https://github.com/Ijeoma-Onwuka), [@FeazUI](https://github.com/FeazUI) | https://github.com/badging/event-diversity-and-inclusion/issues/276 
 Aug-19-2023 | [gRPC Conf 2023](https://events.linuxfoundation.org/grpc-conf/) | ![Passing] |  [@Ijeoma-Onwuka](https://github.com/Ijeoma-Onwuka), [@FeazUI](https://github.com/FeazUI) | https://github.com/badging/event-diversity-and-inclusion/issues/276 
