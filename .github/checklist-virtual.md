@@ -31,11 +31,12 @@
 ### Code of Conduct at Event
 - [ ] **Findability** - It is possible to find the Code of Conduct on the Event website.
 - [ ] **Clarity** - Event Code of Conduct provides a definition of expected behaviour.
-- [ ] **Reporting venue** - The event has a venue for reporting violations of the CoC at the event website.
-- [ ] **Support at Event** - The Event Code of Conduct provided information about possible methods to provide support to victims of inappropriate behavior.
-- [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
+- [ ] **Reporting Venue** - The event has a clear set of instructions to reporting violations of the Code of Conduct on the event website.
+- [ ] **Support at Event** - The Event Code of Conduct outlines the support that will be available on the event platform.
+- [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct upon registration.
 
 ### Diversity Access tickets
 - [ ] **Availability** - The event provides one or more Diversity Access Tickets.
-- [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets.
+- [ ] **Ticket Allocation** - The Event has a process for allocating diversity access tickets.
+- [ ] **Ticket Cost** - At least one available Diversity Access Ticket provides free access to the event. (not reduced)
 - [ ] **Findability** - The information about Diversity Access Tickets is public.
