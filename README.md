@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Nov-20-2023 | [KubeDay India 2023](https://events.linuxfoundation.org/kubeday-india/) | ![Gold] |  [@peculiaruc](https://github.com/peculiaruc), [@Enecode](https://github.com/Enecode) | https://github.com/badging/event-diversity-and-inclusion/issues/285 
 Nov-01-2023 | [KubeDay Singapore 2023](https://events.linuxfoundation.org/kubeday-singapore/) | ![Gold] |  [@djmitche](https://github.com/djmitche), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/286 
 Nov-01-2023 | [KubeCon + CloudNativeCon North America 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | ![Gold] |  [@kristiprogri](https://github.com/kristiprogri), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/284 
 Nov-01-2023 | [LFN Developer & Testing Forum 2023 - Fall](https://events.linuxfoundation.org/lfn-developer-testing-forum/) | ![Silver] |  [@oma131](https://github.com/oma131), [@Busayo-ojo](https://github.com/Busayo-ojo) | https://github.com/badging/event-diversity-and-inclusion/issues/282 
