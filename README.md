@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Mar-07-2024 | [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | ![Gold] |  [@adeyinkaoresanya](https://github.com/adeyinkaoresanya), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/293 
 Jan-29-2024 | [Open Source Forum 2024 ](https://events.linuxfoundation.org/aswf-open-source-forum/) | ![Gold] |  [@Busayo-ojo](https://github.com/Busayo-ojo), [@the-techgurl](https://github.com/the-techgurl) | https://github.com/badging/event-diversity-and-inclusion/issues/292 
 Jan-25-2024 | [FOSS Backstage](foss-backstage.de) | ![Gold] |  [@peculiaruc](https://github.com/peculiaruc), [@Abenacodes](https://github.com/Abenacodes) | https://github.com/badging/event-diversity-and-inclusion/issues/290 
 Dec-01-2023 | [.NET Conf 2023](https://www.dotnetconf.net/) | ![Silver] |  [@Maryblessing](https://github.com/Maryblessing), [@the-techgurl](https://github.com/the-techgurl) | https://github.com/badging/event-diversity-and-inclusion/issues/288 
