@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Mar-18-2024 | [Linux Security Summit North America 2024](https://events.linuxfoundation.org/linux-security-summit-north-america/) | ![Gold] |  [@Omokiti](https://github.com/Omokiti), [@FeazUI](https://github.com/FeazUI) | https://github.com/badging/event-diversity-and-inclusion/issues/300 
 Mar-18-2024 | [Open Source Summit North America 2024](https://events.linuxfoundation.org/open-source-summit-north-america/) | ![Gold] |  [@germonprez](https://github.com/germonprez), [@peculiaruc](https://github.com/peculiaruc) | https://github.com/badging/event-diversity-and-inclusion/issues/298 
 Mar-18-2024 | [ONE Summit 2024 ](https://events.linuxfoundation.org/one-summit-north-america/) | ![Gold] |  [@Young-W1](https://github.com/Young-W1), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/294 
 Mar-07-2024 | [Xen Project Summit ](https://events.linuxfoundation.org/xen-project-summit/) | ![Gold] |  [@daluclemas](https://github.com/daluclemas), [@Abenacodes](https://github.com/Abenacodes) | https://github.com/badging/event-diversity-and-inclusion/issues/295 
