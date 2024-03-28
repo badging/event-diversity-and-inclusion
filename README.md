@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Mar-28-2024 | [SOSS FUSION/24](https://events.linuxfoundation.org/soss-fusion/) | ![Gold] |  [@oma131](https://github.com/oma131), [@Delight362](https://github.com/Delight362) | https://github.com/badging/event-diversity-and-inclusion/issues/301 
 Mar-26-2024 | [Awesome Conf - Test Event](awesomeconf.com) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/309 
 Mar-25-2024 | [SOSS Policy Summit Europe](https://events.linuxfoundation.org/soss-policy-summit-europe/) | ![Gold] |  [@djmitche](https://github.com/djmitche), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/303 
 Mar-25-2024 | [LFN Developer & Testing Forum 2024](https://events.linuxfoundation.org/lfn-developer-testing-forum-north-america/) | ![Gold] |  [@tetris4](https://github.com/tetris4), [@klumb](https://github.com/klumb) | https://github.com/badging/event-diversity-and-inclusion/issues/302 
