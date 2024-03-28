@@ -13,9 +13,9 @@
 ## Metric based checks
 
 ### Event Demographics
-- [ ] **Measuring Demographics** - The Event has a process for measuring demographics.
-- [ ] **Opt-Out** - The Event provides an opportunity to opt-out of providing demographic data
-- [ ] **Text Input** - The Event provides a text box to input variable demographics such as Gender, Race, or Ethnicity
+- [ ] **Measuring Demographics** - If the Event collects demographic information, they have a process for collecting and storing the data.
+- [ ] **Opt-Out** - If the Event collects demographic information, they provide an opportunity to opt-out
+- [ ] **Text Input** - If the Event collects demographic information, they provide a text box to input certain data such as Gender, Race, or Ethnicity
 
 ### Inclusive Experience at Event
 - [ ] **Speaker Inclusivity** - The Event requests feedback from speakers regarding Diversity & Inclusion.
@@ -32,9 +32,9 @@
 - [ ] **Enforcement** - The participants in the Event are required to accept the Code of Conduct.
 
 ### Diversity Access tickets
-- [ ] **Availability** - The event provides one or more Diversity Access Tickets.
-- [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets.
-- [ ] **Findability** - The information about Diversity Access Tickets is public.
+- [ ] **Availability** - The event provides one or more Diversity Access Tickets, or it is a free event.
+- [ ] **Ticket allocation** - The Event has a process for allocating diversity access tickets, or it is a free event.
+- [ ] **Findability** - The information about Diversity Access Tickets is public, or it is a free event.
 
 ### Family Friendliness
 - [ ] **Availability** - The Event provides one or more services/facilities for families.
