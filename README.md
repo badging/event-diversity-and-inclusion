@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Apr-02-2024 | [Cloud Foundry Day NA 2024](https://events.linuxfoundation.org/cloud-foundry-day-north-america/) | ![Silver] |  [@Busayo-ojo](https://github.com/Busayo-ojo), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/307 
 Apr-02-2024 | [WasmCon 2024](https://events.linuxfoundation.org/wasmcon/) | ![Gold] |  [@FeazUI](https://github.com/FeazUI), [@Abenacodes](https://github.com/Abenacodes) | https://github.com/badging/event-diversity-and-inclusion/issues/305 
 Mar-28-2024 | [SOSS FUSION/24](https://events.linuxfoundation.org/soss-fusion/) | ![Gold] |  [@oma131](https://github.com/oma131), [@Delight362](https://github.com/Delight362) | https://github.com/badging/event-diversity-and-inclusion/issues/301 
 Mar-26-2024 | [Awesome Conf - Test Event](awesomeconf.com) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/309 
