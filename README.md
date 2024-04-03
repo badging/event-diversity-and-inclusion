@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Apr-03-2024 | [Open Source Summit Europe 2024](https://events.linuxfoundation.org/open-source-summit-europe/) | ![Gold] |  [@LamiWilliams](https://github.com/LamiWilliams), [@Enecode](https://github.com/Enecode) | https://github.com/badging/event-diversity-and-inclusion/issues/312 
 Apr-02-2024 | [AI_dev: Open Source GenAI & ML Summit Europe 2024](https://events.linuxfoundation.org/ai-dev-europe/ ) | ![Gold] |  [@Omokiti](https://github.com/Omokiti), [@daluclemas](https://github.com/daluclemas) | https://github.com/badging/event-diversity-and-inclusion/issues/306 
 Apr-02-2024 | [Awesomeconf](awesomeconf.com) | ![Gold] |  [@ElizabethN](https://github.com/ElizabethN), [@Maryblessing](https://github.com/Maryblessing) | https://github.com/badging/event-diversity-and-inclusion/issues/318 
 Apr-02-2024 | [Community over Code EU](https://eu.communityovercode.org/) | ![Gold] |  [@peculiaruc](https://github.com/peculiaruc), [@Young-W1](https://github.com/Young-W1) | https://github.com/badging/event-diversity-and-inclusion/issues/308 
