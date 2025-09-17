@@ -51,6 +51,6 @@
 - [ ] **Findability** - Any cause for concern is communicated to attendees and is easy to find on the website.
 
 ### Public Health and Safety
-- [ ] **Public Health Pledge Badge** - The Event organizers have participated in the [Public Health Badging Program](https://publichealthpledge.com).
+- [ ] **Public Health Pledge Badge** - The Event organizers are aware of the [Public Health Badging Program](https://publichealthpledge.com).
 - [ ] **Findability** - Information about public health and safety procedures and provisions is publicly available on the event website.
 
