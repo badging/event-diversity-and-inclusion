@@ -24,6 +24,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: "badging/event-diversity-and-inclusion"
+          run: |
+          echo "Repo: $GITHUB_REPO"
+          echo "Token length: ${#GITHUB_TOKEN}"
 
           # GITHUB_REPO: ${{ github.repository }}
         run: python scripts/update_reviewers.py
