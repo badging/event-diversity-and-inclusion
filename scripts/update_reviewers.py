@@ -3,7 +3,7 @@ from datetime import datetime, timedelta, timezone, time
 from github import Github, Auth
 
 # GitHub auth
-token = os.getenv("GH_TOKEN")
+token = os.getenv("GITHUB_TOKEN")
 repo_name = os.getenv("GITHUB_REPO", "badging/event-diversity-and-inclusion")
 g = Github(auth=Auth.Token(token))
 repo = g.get_repo(repo_name)
