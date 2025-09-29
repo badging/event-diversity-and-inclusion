@@ -10,8 +10,7 @@ token = os.getenv("GITHUB_TOKEN")
 if not token:
     raise RuntimeError("Missing GITHUB_TOKEN")
 
-g = Github(token)
-# g = Github(auth=Auth.Token(token))
+g = Github(auth=Auth.Token(token))
 repo = g.get_repo(repo_name)
 
 # Test mode (set reviewers you want to track)
