@@ -1,3 +1,4 @@
 # Python virtual environments
 venv/
 .env
+/scripts/issues_per_assignee.py

@@ -67,7 +67,7 @@ for reviewer, stats in reviewer_stats.items():
 
 # Recognition levels
 def recognition(total):
-    if total <= 3:
+    if total <= 5:
         return "🌱 New"
     elif total <= 10:
         return "🥉 Bronze"
