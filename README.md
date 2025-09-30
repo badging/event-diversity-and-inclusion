@@ -109,3 +109,5 @@ _Last Updated: 2025-09-29_
 
 
 <!-- REVIEWER_SPOTLIGHT_END -->
+
+_To see the Reviewer Spotlight documentation, check [here](docs/reviewer-spotlight-overview.md)_
