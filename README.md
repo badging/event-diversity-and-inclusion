@@ -49,20 +49,20 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 | [ElizabethN](https://github.com/ElizabethN) | 1 | 26 | 2025-06-26 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:ElizabethN+is:closed) |
 | [Maryblessing](https://github.com/Maryblessing) | 3 | 23 | 2025-09-23 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Maryblessing+is:closed) |
 | [adeyinkaoresanya](https://github.com/adeyinkaoresanya) | 7 | 23 | 2025-09-17 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:adeyinkaoresanya+is:closed) |
-| [peculiaruc](https://github.com/peculiaruc) | 5 | 22 | 2025-10-20 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:peculiaruc+is:closed) |
-| [Busayo-ojo](https://github.com/Busayo-ojo) | 4 | 19 | 2025-10-20 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Busayo-ojo+is:closed) |
+| [peculiaruc](https://github.com/peculiaruc) | 4 | 22 | 2025-10-20 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:peculiaruc+is:closed) |
+| [Busayo-ojo](https://github.com/Busayo-ojo) | 3 | 19 | 2025-10-20 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Busayo-ojo+is:closed) |
 | [oma131](https://github.com/oma131) | 2 | 19 | 2025-09-17 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:oma131+is:closed) |
-| [Young-W1](https://github.com/Young-W1) | 5 | 17 | 2025-10-15 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Young-W1+is:closed) |
-| [harmonyelendu](https://github.com/harmonyelendu) | 10 | 15 | 2025-11-04 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:harmonyelendu+is:closed) |
+| [Young-W1](https://github.com/Young-W1) | 4 | 17 | 2025-10-15 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Young-W1+is:closed) |
+| [harmonyelendu](https://github.com/harmonyelendu) | 9 | 15 | 2025-11-04 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:harmonyelendu+is:closed) |
 | [daluclemas](https://github.com/daluclemas) | 4 | 13 | 2025-10-20 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:daluclemas+is:closed) |
 | [divya-mohan0209](https://github.com/divya-mohan0209) | 4 | 12 | 2025-11-04 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:divya-mohan0209+is:closed) |
 | [Ijeoma-Onwuka](https://github.com/Ijeoma-Onwuka) | 4 | 10 | 2025-09-22 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Ijeoma-Onwuka+is:closed) |
-| [Amalearner](https://github.com/Amalearner) | 4 | 10 | 2025-09-22 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Amalearner+is:closed) |
+| [Amalearner](https://github.com/Amalearner) | 3 | 10 | 2025-09-22 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Amalearner+is:closed) |
 | [ijayhub](https://github.com/ijayhub) | 4 | 9 | 2025-10-20 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:ijayhub+is:closed) |
 | [Omokiti](https://github.com/Omokiti) | 1 | 9 | 2025-06-16 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Omokiti+is:closed) |
 | [JacobIsah](https://github.com/JacobIsah) | 3 | 8 | 2025-09-22 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:JacobIsah+is:closed) |
 | [Arya-AD](https://github.com/Arya-AD) | 4 | 7 | 2025-10-20 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Arya-AD+is:closed) |
-| [winnerbright](https://github.com/winnerbright) | 3 | 7 | 2025-09-17 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:winnerbright+is:closed) |
+| [winnerbright](https://github.com/winnerbright) | 2 | 7 | 2025-09-17 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:winnerbright+is:closed) |
 
 ---
 
@@ -104,7 +104,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 ### Welcome Back Highlight  
 - @ElizabethN returned in Jun 2025 after a break! 🎉
 
-_Last Updated: 2025-11-24_  
+_Last Updated: 2025-12-01_  
 
 
 
