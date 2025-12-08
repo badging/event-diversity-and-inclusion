@@ -58,10 +58,10 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 | [divya-mohan0209](https://github.com/divya-mohan0209) | 4 | 12 | 2025-11-04 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:divya-mohan0209+is:closed) |
 | [Ijeoma-Onwuka](https://github.com/Ijeoma-Onwuka) | 4 | 10 | 2025-09-22 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Ijeoma-Onwuka+is:closed) |
 | [Amalearner](https://github.com/Amalearner) | 3 | 10 | 2025-09-22 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Amalearner+is:closed) |
-| [ijayhub](https://github.com/ijayhub) | 4 | 9 | 2025-10-20 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:ijayhub+is:closed) |
+| [ijayhub](https://github.com/ijayhub) | 3 | 9 | 2025-10-20 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:ijayhub+is:closed) |
 | [Omokiti](https://github.com/Omokiti) | 1 | 9 | 2025-06-16 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Omokiti+is:closed) |
 | [JacobIsah](https://github.com/JacobIsah) | 3 | 8 | 2025-09-22 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:JacobIsah+is:closed) |
-| [Arya-AD](https://github.com/Arya-AD) | 4 | 7 | 2025-10-20 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Arya-AD+is:closed) |
+| [Arya-AD](https://github.com/Arya-AD) | 3 | 7 | 2025-10-20 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Arya-AD+is:closed) |
 | [winnerbright](https://github.com/winnerbright) | 2 | 7 | 2025-09-17 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:winnerbright+is:closed) |
 
 ---
@@ -104,7 +104,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 ### Welcome Back Highlight  
 - @ElizabethN returned in Jun 2025 after a break! 🎉
 
-_Last Updated: 2025-12-01_  
+_Last Updated: 2025-12-08_  
 
 
 
