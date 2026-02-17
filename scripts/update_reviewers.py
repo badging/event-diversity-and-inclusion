@@ -45,43 +45,28 @@ for issue in repo.get_issues(state="closed"):
             ):
                 reviewer_stats[name]["last"] = issue.closed_at.date()
 
-# Retrieve currently assigned tasks from open issues
-issue_tracker_main = {} # tracks each assignee's last active assignment
-# Collect open issues
-for issue in repo.get_issues(state = 'open'):
-    issue_tracker_sub = {} # tracks last event per assignee for this issue
+# Tracks the most recent 'assigned' event for each user using timeline api
+issue_tracker = {} # tracks each assignee's most recent assigned date
+# Collect all issues
+for issue in repo.get_issues(state = 'all'):
     for event in issue.get_timeline():
-        # Only process assignment-related events
-        if event.event in ['assigned', 'unassigned']:
-            name = event.raw_data['assignee']['login']
-            event_date = event.created_at.date()
+        # Only process assigned events
+        if event.event != 'assigned':
+            continue
+        name = event.raw_data['assignee']['login']
+        event_date = event.created_at.date()
 
-            # Keep the latest event per assignee for this issue
-            if (
-                name not in issue_tracker_sub 
-                or event_date >= issue_tracker_sub[name]['event_date']
-                ):
-                issue_tracker_sub[name] = {'status': event.event, 'event_date': event_date}
+        # Keep the latest event per assignee for this issue
+        if (
+            name not in issue_tracker 
+            or event_date > issue_tracker[name]
+            ):
+            issue_tracker[name] = event_date
 
-    # Merge this issue's sub-tracker into the main tracker
-    for name, info in issue_tracker_sub.items():
-        if name not in issue_tracker_main:
-            # Add new assignee
-            issue_tracker_main[name] = info
-        else:
-            # Update main only if this is an active assignment
-            current = issue_tracker_main[name]
-            if info['status'] == 'assigned' and (current['status'] == 'unassigned' 
-            or info['event_date'] > current['event_date']):
-                    issue_tracker_main[name] = info
-
-# Update each assignee’s last assigned date if they are currently assigned
-for name in issue_tracker_main:
-    if (
-        issue_tracker_main[name]['status'] == 'assigned' 
-        and name in reviewer_stats
-        ):
-        reviewer_stats[name]['last_assigned'] = issue_tracker_main[name]['event_date']
+# Update each reviewer's last assigned date
+for reviewer, last_date in issue_tracker.items():
+    if reviewer in reviewer_stats:
+        reviewer_stats[reviewer]['last_assigned'] = last_date
 
 # Split Active / Alumni / Welcome Back
 active, alumni, welcome_back = [], [], []
@@ -216,4 +201,3 @@ new_content = f"{before}{start}\n{spotlight}\n{end}{after}"
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(new_content)
-
