@@ -32,7 +32,8 @@ for issue in repo.get_issues(state="closed"):
                     "recent": 0,
                     "total": 0,
                     "last": None,
-                    "dates": []  # track all review dates
+                    "dates": [],  # track all review dates
+                    "last_assigned": None # track last assigned dates
                 }
             reviewer_stats[name]["total"] += 1
             if issue.closed_at >= six_months_ago:
@@ -43,6 +44,29 @@ for issue in repo.get_issues(state="closed"):
                 or issue.closed_at > datetime.combine(reviewer_stats[name]["last"], time.min).replace(tzinfo=timezone.utc)
             ):
                 reviewer_stats[name]["last"] = issue.closed_at.date()
+
+# Tracks the most recent 'assigned' event for each user using timeline api
+issue_tracker = {} # tracks each assignee's most recent assigned date
+# Collect all issues
+for issue in repo.get_issues(state = 'all'):
+    for event in issue.get_timeline():
+        # Only process assigned events
+        if event.event != 'assigned':
+            continue
+        name = event.raw_data['assignee']['login']
+        event_date = event.created_at.date()
+
+        # Keep the latest event per assignee for this issue
+        if (
+            name not in issue_tracker 
+            or event_date > issue_tracker[name]
+            ):
+            issue_tracker[name] = event_date
+
+# Update each reviewer's last assigned date
+for reviewer, last_date in issue_tracker.items():
+    if reviewer in reviewer_stats:
+        reviewer_stats[reviewer]['last_assigned'] = last_date
 
 # Split Active / Alumni / Welcome Back
 active, alumni, welcome_back = [], [], []
@@ -88,8 +112,8 @@ def recognition(total):
 #     return "\n".join(rows) if len(rows) > 2 else "_No active reviewers yet._"
 
 def table_active():
-    rows = ["| Reviewer | Reviews (last 6 months) | Total Reviews | Last Review Date | Badge Level | Events Reviewed |",
-            "|----------|----------------------|---------------|------------------|-------------------|--------|"]
+    rows = ["| Reviewer | Reviews (last 6 months) | Total Reviews | Last Review Date | Last Assigned Date | Badge Level | Events Reviewed |",
+            "|----------|-------------------------|---------------|------------------|--------------------|-------------|---------------- |"]
     for r, s in sorted(active, key=lambda x: -x[1]['total']):
         try:
             user = repo.get_user(r.lstrip('@'))
@@ -102,14 +126,14 @@ def table_active():
         issues_link = f"https://github.com/{repo_name}/issues?q=is:issue+assignee:{r.lstrip('@')}+is:closed"
 
         rows.append(
-            f"| [{r}]({github_link}) | {s['recent']} | {s['total']} | {s['last']} | {recognition(s['total'])} | [View]({issues_link}) |"
+            f"| [{r}]({github_link}) | {s['recent']} | {s['total']} | {s['last']} | {s['last_assigned']} | {recognition(s['total'])} | [View]({issues_link})"
         )
     return "\n".join(rows) if len(rows) > 2 else "_No active reviewers yet._"
 
 
 def table_alumni():
-    rows = ["| Reviewer | Total Reviews | Last Active | Badge Level | Events Reviewed |",
-            "|----------|---------------|-------------|-------------------|--------|"]
+    rows = ["| Reviewer | Total Reviews | Last Active | Last Assigned Date |Badge Level | Events Reviewed |",
+            "|----------|---------------|-------------|--------------------|------------|-----------------|"]
     for r, s in sorted(alumni, key=lambda x: -x[1]['total']):
         try:
             user = repo.get_user(r.lstrip('@'))
@@ -123,7 +147,7 @@ def table_alumni():
         last = s['last'] or "N/A"
 
         rows.append(
-            f"| [{r}]({github_link}) | {s['total']} | {last} | 🎖️ Honour | [View]({issues_link}) |"
+            f"| [{r}]({github_link}) | {s['total']} | {last} | {s['last_assigned']} | 🎖️ Honour | [View]({issues_link})"
         )
     return "\n".join(rows) if len(rows) > 2 else "_No past reviewers yet._"
 
