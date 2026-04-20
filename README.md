@@ -54,22 +54,21 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 ### Active Reviewers (last 6 months)  
 | Reviewer | Reviews (last 6 months) | Total Reviews | Last Review Date | Last Assigned Date | Badge Level | Events Reviewed |
 |----------|-------------------------|---------------|------------------|--------------------|-------------|---------------- |
-| [Anita-ihuman](https://github.com/Anita-ihuman) | 3 | 41 | 2026-04-09 | 2026-03-31 | 🥇 Gold | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Anita-ihuman+is:closed)
+| [Anita-ihuman](https://github.com/Anita-ihuman) | 2 | 41 | 2026-04-09 | 2026-03-31 | 🥇 Gold | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Anita-ihuman+is:closed)
 | [tetris4](https://github.com/tetris4) | 3 | 31 | 2026-04-08 | 2026-03-31 | 🥇 Gold | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:tetris4+is:closed)
 | [KafayahL](https://github.com/KafayahL) | 2 | 28 | 2026-04-08 | 2026-03-31 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:KafayahL+is:closed)
+| [peculiaruc](https://github.com/peculiaruc) | 3 | 25 | 2026-04-16 | 2026-03-31 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:peculiaruc+is:closed)
 | [Maryblessing](https://github.com/Maryblessing) | 2 | 25 | 2026-04-09 | 2026-04-09 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Maryblessing+is:closed)
-| [peculiaruc](https://github.com/peculiaruc) | 3 | 24 | 2026-01-29 | 2026-03-31 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:peculiaruc+is:closed)
 | [Young-W1](https://github.com/Young-W1) | 3 | 20 | 2026-04-09 | 2026-03-31 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Young-W1+is:closed)
 | [harmonyelendu](https://github.com/harmonyelendu) | 6 | 20 | 2026-04-09 | 2026-04-09 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:harmonyelendu+is:closed)
 | [oma131](https://github.com/oma131) | 1 | 20 | 2026-02-02 | 2026-04-09 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:oma131+is:closed)
-| [Busayo-ojo](https://github.com/Busayo-ojo) | 1 | 19 | 2025-10-20 | 2025-10-06 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Busayo-ojo+is:closed)
 | [divya-mohan0209](https://github.com/divya-mohan0209) | 3 | 14 | 2026-04-08 | 2026-03-31 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:divya-mohan0209+is:closed)
-| [daluclemas](https://github.com/daluclemas) | 2 | 14 | 2026-01-22 | 2026-01-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:daluclemas+is:closed)
+| [daluclemas](https://github.com/daluclemas) | 1 | 14 | 2026-01-22 | 2026-01-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:daluclemas+is:closed)
+| [Amalearner](https://github.com/Amalearner) | 2 | 12 | 2026-04-16 | 2026-04-09 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Amalearner+is:closed)
 | [Ijeoma-Onwuka](https://github.com/Ijeoma-Onwuka) | 2 | 12 | 2026-02-10 | 2026-02-02 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Ijeoma-Onwuka+is:closed)
 | [JacobIsah](https://github.com/JacobIsah) | 3 | 11 | 2026-04-08 | 2026-03-31 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:JacobIsah+is:closed)
-| [Amalearner](https://github.com/Amalearner) | 1 | 11 | 2026-02-02 | 2026-04-09 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Amalearner+is:closed)
-| [ijayhub](https://github.com/ijayhub) | 2 | 10 | 2026-02-02 | 2026-01-27 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:ijayhub+is:closed)
-| [Arya-AD](https://github.com/Arya-AD) | 3 | 9 | 2026-03-17 | 2026-04-09 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Arya-AD+is:closed)
+| [ijayhub](https://github.com/ijayhub) | 1 | 10 | 2026-02-02 | 2026-01-27 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:ijayhub+is:closed)
+| [Arya-AD](https://github.com/Arya-AD) | 2 | 9 | 2026-03-17 | 2026-04-09 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Arya-AD+is:closed)
 | [winnerbright](https://github.com/winnerbright) | 2 | 9 | 2026-02-16 | 2026-04-09 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:winnerbright+is:closed)
 | [Mo-wo](https://github.com/Mo-wo) | 2 | 8 | 2026-03-17 | 2026-04-09 | 🥉 Bronze | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Mo-wo+is:closed)
 | [rwejoye](https://github.com/rwejoye) | 1 | 1 | 2026-03-17 | 2026-01-27 | 🌱 New | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:rwejoye+is:closed)
@@ -84,6 +83,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 | [ElizabethN](https://github.com/ElizabethN) | 26 | 2025-06-26 | 2025-12-01 | 🎖️ Honour | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:ElizabethN+is:closed)
 | [germonprez](https://github.com/germonprez) | 25 | 2024-03-18 | 2024-03-07 | 🎖️ Honour | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:germonprez+is:closed)
 | [adeyinkaoresanya](https://github.com/adeyinkaoresanya) | 23 | 2025-09-17 | 2026-04-09 | 🎖️ Honour | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:adeyinkaoresanya+is:closed)
+| [Busayo-ojo](https://github.com/Busayo-ojo) | 19 | 2025-10-20 | 2025-10-06 | 🎖️ Honour | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Busayo-ojo+is:closed)
 | [Dhruv-Sachdev1313](https://github.com/Dhruv-Sachdev1313) | 18 | 2023-05-24 | 2023-06-13 | 🎖️ Honour | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Dhruv-Sachdev1313+is:closed)
 | [kristiprogri](https://github.com/kristiprogri) | 13 | 2024-03-21 | 2025-09-02 | 🎖️ Honour | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:kristiprogri+is:closed)
 | [spotz](https://github.com/spotz) | 12 | 2023-06-13 | 2023-06-07 | 🎖️ Honour | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:spotz+is:closed)
@@ -117,7 +117,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 ### Welcome Back Highlight  
 _No past reviewer has returned recently._
 
-_Last Updated: 2026-04-13_  
+_Last Updated: 2026-04-20_  
 
 
 
