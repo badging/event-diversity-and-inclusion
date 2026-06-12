@@ -24,11 +24,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: "badging/event-diversity-and-inclusion"
-        run: python scripts/update_reviewers.py
+        run: python scripts/main.py
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "chore: update reviewer spotlight [skip ci]" || echo "No changes"
+          git commit -m "chore: update reviewer spotlight [skip ci]" || exit 0
           git push
