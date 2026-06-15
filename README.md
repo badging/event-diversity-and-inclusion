@@ -115,7 +115,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 ### Welcome Back Highlight  
 _No past reviewer has returned recently._
 
-_Last Updated: 2026-06-09_  
+_Last Updated: 2026-06-15_  
 
 
 <!-- REVIEWER_SPOTLIGHT_END -->
