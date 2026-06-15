@@ -1,15 +1,15 @@
 import os
 import json
 from dotenv import load_dotenv
-from github import Github, Auth
 from datetime import datetime, timedelta, timezone
 import time
 from slack_sdk import WebClient
+from reviewers_spotlight.rendering import recognition
+from reviewers_spotlight.config import load_config
+from reviewers_spotlight.github_graphql import GraphQLClient, fetch_issues
+from reviewers_spotlight.stats import build_stats
 
 load_dotenv()
-
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-GITHUB_REPO = os.getenv("GITHUB_REPO", "badging/event-diversity-and-inclusion")
 
 SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_TOKEN")
 SLACK_CHANNEL_ID = os.getenv("SLACK_CHANNEL_ID")
@@ -19,21 +19,8 @@ STATE_FILE = "badge_state.json"
 
 client = WebClient(token=SLACK_BOT_TOKEN)
 
-if not GITHUB_TOKEN:
-    raise RuntimeError("Missing GITHUB_TOKEN")
-
 BADGE_ORDER = ["🌱 New", "🥉 Bronze", "🥈 Silver", "🥇 Gold", "🏆 Platinum"]
 
-def get_badge(total: int) -> str:
-    if total <= 5:
-        return "🌱 New"
-    elif total <= 10:
-        return "🥉 Bronze"
-    elif total <= 30:
-        return "🥈 Silver"
-    elif total < 50:
-        return "🥇 Gold"
-    return "🏆 Platinum"
 
 # Helper to determine if a badge upgrade occurred
 def is_upgrade(old: str | None, new: str) -> bool:
@@ -68,45 +55,26 @@ Hi <@{COMMUNITY_MANAGER_ID}> 👋
 
 Reviewer @{username} reached {badge} 🎉
 """
-    resp = client.chat_postMessage(channel=COMMUNITY_MANAGER_ID, text=message)
-    return resp.get("ok", False)
+    try:
+        resp = client.chat_postMessage(
+            channel=COMMUNITY_MANAGER_ID, 
+            text=message
+        )
+        return resp.get("ok", False)
+    except Exception as e:
+        print(f"DM failed: {e}")
+        return False
 
 
 def fetch_reviewer_stats():
-    g = Github(auth=Auth.Token(GITHUB_TOKEN))
-    repo = g.get_repo(GITHUB_REPO)
+    config = load_config()
+    client = GraphQLClient(config.token)
 
     now = datetime.now(timezone.utc)
-    six_months_ago = now - timedelta(days=180)
+    six_months_ago = now - timedelta(days=config.window_days)
 
-    stats = {}
-
-    for issue in repo.get_issues(state="closed"):
-        if not issue.assignees:
-            continue
-
-        for assignee in issue.assignees:
-            name = assignee.login
-
-            if name not in stats:
-                stats[name] = {
-                    "total": 0,
-                    "recent": 0,
-                    "dates": [],
-                    "last": None,
-                }
-
-            stats[name]["total"] += 1
-
-            if issue.closed_at >= six_months_ago:
-                stats[name]["recent"] += 1
-
-            stats[name]["dates"].append(issue.closed_at)
-
-            if not stats[name]["last"] or issue.closed_at > stats[name]["last"]:
-                stats[name]["last"] = issue.closed_at
-
-    return stats
+    issues = fetch_issues(client, config.owner, config.name)
+    return build_stats(issues, six_months_ago)
 
 
 def send_notifications():
@@ -114,24 +82,32 @@ def send_notifications():
     stats = fetch_reviewer_stats()
 
     for username, data in stats.items():
-        badge = get_badge(data["total"])
+        badge = recognition(data.total)
         old_badge = state.get(username)
 
-        if is_upgrade(old_badge, badge):
+        if old_badge is None:
+            state[username] = badge
+        elif is_upgrade(old_badge, badge):
+            
+            ok_public = False
             try:
                 ok_public = send_public(username, badge)
-                time.sleep(0.5)
-                ok_dm = send_dm(username, badge)
-
-                if ok_public and ok_dm:
-                    state[username] = badge
-                else:
-                    print(
-                        f"Slack send failed for {username}: public={ok_public}, dm={ok_dm}"
-                    )
-
             except Exception as e:
-                print(f"Failed to notify {username}: {e}")
+                print(f"Failed to send public notification for {username}: {e}")
+
+            time.sleep(0.5)
+            
+            ok_dm = False
+            try:
+                ok_dm = send_dm(username, badge)
+            except Exception as e:
+                print(f"Failed to send DM for {username}: {e}")
+
+            if ok_public and ok_dm:
+                state[username] = badge
+        else:
+            # No upgrade or downgrade
+            pass
 
     save_state(state)
 
