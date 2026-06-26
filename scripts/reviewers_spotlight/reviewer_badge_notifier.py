@@ -1,17 +1,24 @@
 import os
 import re
-from dotenv import load_dotenv
-from datetime import datetime, timedelta, timezone
 import time
-from slack_sdk import WebClient
-from reviewers_spotlight.rendering import recognition
 from pathlib import Path
+from dotenv import load_dotenv
+from slack_sdk import WebClient
+
+from reviewers_spotlight.rendering import recognition
 
 load_dotenv()
 
-SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_TOKEN")
-SLACK_CHANNEL_ID = os.getenv("SLACK_CHANNEL_ID")
-COMMUNITY_MANAGER_ID = os.getenv("COMMUNITY_MANAGER_ID")
+def _require_env(name: str) -> str:
+    value = os.getenv(name)
+    if not value:
+        raise RuntimeError(f"Missing {name}")
+    return value
+
+
+SLACK_BOT_TOKEN = _require_env("SLACK_BOT_TOKEN")
+SLACK_CHANNEL_ID = _require_env("SLACK_CHANNEL_ID")
+COMMUNITY_MANAGER_ID = _require_env("COMMUNITY_MANAGER_ID")
 
 client = WebClient(token=SLACK_BOT_TOKEN)
 
@@ -55,29 +62,33 @@ def extract_old_badges(readme_path: str) -> dict[str, str]:
 
 # Helper to determine if a badge upgrade occurred
 def is_upgrade(old: str | None, new: str) -> bool:
-    if old is None:
-        return False 
+    if old is None or old not in BADGE_ORDER or new not in BADGE_ORDER:
+        return False
     return BADGE_ORDER.index(new) > BADGE_ORDER.index(old)
 
 # notify the slack channel and DM the community manager if a badge upgrade occurred
-def send_public(username, badge):
+def send_public(username, badge, total_reviews):
     message = f"""
-🥳 Big news! Reviewer @{username} has just leveled up to {badge}!
+@{username}, congratulations on earning the {badge} badge after completing {total_reviews} reviews! 🎉
 
-👏 Amazing work, @{username} — keep shining!
+Thank you for your continued contributions to Event DEI Badging 👏
 """
     resp = client.chat_postMessage(channel=SLACK_CHANNEL_ID, text=message)
     return resp.get("ok", False)
 
-def send_dm(username, badge):
+def send_dm(username, badge, total_reviews):
     message = f"""
 Hi <@{COMMUNITY_MANAGER_ID}> 👋
 
-Reviewer @{username} reached {badge} 🎉
+Badger @{username} has unlocked the {badge} badge with {total_reviews} completed reviews! 🎉
+
+This could be a great opportunity to spotlight their contributions on our socials or in the next community update.
 """
     try:
+        dm = client.conversations_open(users=[COMMUNITY_MANAGER_ID])
+        channel_id = dm["channel"]["id"]
         resp = client.chat_postMessage(
-            channel=COMMUNITY_MANAGER_ID, 
+            channel=channel_id,
             text=message
         )
         return resp.get("ok", False)
@@ -98,7 +109,7 @@ def send_notifications(stats, old_badges: dict):
             
             ok_public = False
             try:
-                ok_public = send_public(username, badge)
+                ok_public = send_public(username, badge, data.total)
             except Exception as e:
                 print(f"Failed to send public notification for {username}: {e}")
 
@@ -106,7 +117,7 @@ def send_notifications(stats, old_badges: dict):
             
             ok_dm = False
             try:
-                ok_dm = send_dm(username, badge)
+                ok_dm = send_dm(username, badge, data.total)
             except Exception as e:
                 print(f"Failed to send DM for {username}: {e}")
 
@@ -117,4 +128,3 @@ def send_notifications(stats, old_badges: dict):
             pass
 
     print(f"Notifications: {notified_count} upgrades processed and notified to Slack.")
-
