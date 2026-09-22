@@ -56,10 +56,10 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 |----------|-------------------------|---------------|------------------|--------------------|-------------|-----------------|
 | [Anita-ihuman](https://github.com/Anita-ihuman) | 3 | 43 | 2026-08-11 | 2026-09-14 | 🥇 Gold | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Anita-ihuman+is:closed) |
 | [tetris4](https://github.com/tetris4) | 3 | 33 | 2026-07-16 | 2026-09-14 | 🥇 Gold | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:tetris4+is:closed) |
-| [harmonyelendu](https://github.com/harmonyelendu) | 13 | 32 | 2026-09-01 | 2026-09-14 | 🥇 Gold | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:harmonyelendu+is:closed) |
+| [harmonyelendu](https://github.com/harmonyelendu) | 14 | 33 | 2026-09-16 | 2026-09-14 | 🥇 Gold | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:harmonyelendu+is:closed) |
 | [KafayahL](https://github.com/KafayahL) | 3 | 30 | 2026-07-16 | 2026-09-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:KafayahL+is:closed) |
+| [adeyinkaoresanya](https://github.com/adeyinkaoresanya) | 9 | 30 | 2026-09-16 | 2026-09-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:adeyinkaoresanya+is:closed) |
 | [peculiaruc](https://github.com/peculiaruc) | 6 | 30 | 2026-07-20 | 2026-09-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:peculiaruc+is:closed) |
-| [adeyinkaoresanya](https://github.com/adeyinkaoresanya) | 8 | 29 | 2026-09-01 | 2026-09-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:adeyinkaoresanya+is:closed) |
 | [Maryblessing](https://github.com/Maryblessing) | 2 | 26 | 2026-04-21 | 2026-09-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Maryblessing+is:closed) |
 | [Young-W1](https://github.com/Young-W1) | 3 | 22 | 2026-07-16 | 2026-09-14 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:Young-W1+is:closed) |
 | [oma131](https://github.com/oma131) | 2 | 22 | 2026-07-16 | 2026-07-08 | 🥈 Silver | [View](https://github.com/badging/event-diversity-and-inclusion/issues?q=is:issue+assignee:oma131+is:closed) |
@@ -115,7 +115,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 ### Welcome Back Highlight  
 _No past reviewer has returned recently._
 
-_Last Updated: 2026-09-15_  
+_Last Updated: 2026-09-22_  
 
 
 <!-- REVIEWER_SPOTLIGHT_END -->
