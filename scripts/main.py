@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 from datetime import datetime, timedelta, timezone
+import re
 
 from reviewers_spotlight.categorize import categorize
 from reviewers_spotlight.config import load_config
@@ -9,7 +10,8 @@ from reviewers_spotlight.github_graphql import GraphQLClient, fetch_issues
 from reviewers_spotlight.readme_updater import update_block
 from reviewers_spotlight.rendering import render_spotlight
 from reviewers_spotlight.stats import build_stats
-
+from reviewers_spotlight.reviewer_badge_notifier import send_notifications, extract_old_badges
+from reviewers_spotlight.rendering import recognition
 
 
 def main() -> None:
@@ -23,9 +25,12 @@ def main() -> None:
     stats = build_stats(issues, window_start)
     buckets = categorize(stats, window_start, now)
 
+    old_badges = extract_old_badges(cfg.readme_path)
+
     spotlight = render_spotlight(buckets, cfg.repo, now)
     update_block(cfg.readme_path, spotlight)
-
+    
+    send_notifications(stats, old_badges)
 
     m = client.metrics
     print(
